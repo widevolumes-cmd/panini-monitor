@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T06:38:14.419408+00:00",
+  "last_updated": "2026-10-23T07:26:13.293268+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -1677,10 +1677,10 @@
     "QPKBT001PACK": {
       "name": "Pack Surprise Batman 1",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 149,
       "url": "https://tiendapanini.com.mx/pack-surprise-batman-1",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-10-23T07:26:13.291096+00:00"
     },
     "QLABE008": {
       "name": "Joker/Harley Criminal Sanity #2",
@@ -9597,10 +9597,10 @@
     "QBMIN007": {
       "name": "Batman: One Bad Day Vol.07",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 299,
       "url": "https://tiendapanini.com.mx/batman-one-bad-day-vol07",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-10-23T07:26:13.291096+00:00"
     },
     "QDCPR001": {
       "name": "DC Pride 2024",
