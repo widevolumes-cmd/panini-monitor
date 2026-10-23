@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T12:49:24.202884+00:00",
+  "last_updated": "2026-10-23T13:27:35.023995+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -9597,10 +9597,10 @@
     "QBMIN007": {
       "name": "Batman: One Bad Day Vol.07",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 299,
       "url": "https://tiendapanini.com.mx/batman-one-bad-day-vol07",
-      "updated_at": "2026-10-23T10:26:32.878417+00:00"
+      "updated_at": "2026-10-23T13:27:35.021949+00:00"
     },
     "QDCPR001": {
       "name": "DC Pride 2024",
