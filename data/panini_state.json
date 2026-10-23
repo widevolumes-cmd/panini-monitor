@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T14:12:27.538572+00:00",
+  "last_updated": "2026-10-23T14:57:16.335456+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -1677,10 +1677,10 @@
     "QPKBT001PACK": {
       "name": "Pack Surprise Batman 1",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 149,
       "url": "https://tiendapanini.com.mx/pack-surprise-batman-1",
-      "updated_at": "2026-10-23T10:26:32.878417+00:00"
+      "updated_at": "2026-10-23T14:57:16.333043+00:00"
     },
     "QLABE008": {
       "name": "Joker/Harley Criminal Sanity #2",
