@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T17:32:42.424559+00:00",
+  "last_updated": "2026-10-24T18:00:08.951360+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -5189,10 +5189,10 @@
     "QMVSC001": {
       "name": "Marvel Vs Capcom: All-New Venom #1",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 119,
       "url": "https://tiendapanini.com.mx/marvel-vs-capcom-all-new-venom-1",
-      "updated_at": "2026-10-24T17:32:42.422077+00:00"
+      "updated_at": "2026-10-24T18:00:08.949230+00:00"
     },
     "QINTR002": {
       "name": "Inmortal Thor Vol.02",
