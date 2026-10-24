@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T04:50:36.558392+00:00",
+  "last_updated": "2026-10-24T05:21:15.043320+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -933,10 +933,10 @@
     "QASGA002": {
       "name": "Absolute Green Arrow #2",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-2",
-      "updated_at": "2026-10-24T04:10:17.179286+00:00"
+      "updated_at": "2026-10-24T05:21:15.040939+00:00"
     },
     "QLUCF011": {
       "name": "Lucifer Vol.11",
