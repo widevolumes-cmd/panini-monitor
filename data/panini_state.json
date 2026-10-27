@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T19:30:33.623428+00:00",
+  "last_updated": "2026-10-27T20:16:00.373682+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -7509,10 +7509,10 @@
     "QTTNS002": {
       "name": "Titans Vol.02",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 279,
       "url": "https://tiendapanini.com.mx/titans-vol02",
-      "updated_at": "2026-10-27T11:42:28.602717+00:00"
+      "updated_at": "2026-10-27T20:16:00.370677+00:00"
     },
     "QDCSU009": {
       "name": "Action Comics Vol.03: Yo, Bizarro",
