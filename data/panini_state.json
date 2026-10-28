@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T21:57:28.569801+00:00",
+  "last_updated": "2026-10-28T22:34:50.013615+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -4909,10 +4909,10 @@
     "QAVEN031": {
       "name": "Avengers #31",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/avengers-31",
-      "updated_at": "2026-10-28T21:57:28.566927+00:00"
+      "updated_at": "2026-10-28T22:34:50.011521+00:00"
     },
     "QASDC001V1": {
       "name": "Absolute Batman #01 (Variante 1)",
