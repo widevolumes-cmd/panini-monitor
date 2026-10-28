@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T11:02:32.978764+00:00",
+  "last_updated": "2026-10-28T11:46:42.732594+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -2477,10 +2477,10 @@
     "QASGL003": {
       "name": "Absolute Green Lantern Vol.3",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-lantern-vol3",
-      "updated_at": "2026-10-28T08:32:23.409305+00:00"
+      "updated_at": "2026-10-28T11:46:42.730708+00:00"
     },
     "QASDC008": {
       "name": "Absolute Batman #8",
