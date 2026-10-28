@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T14:28:50.815006+00:00",
+  "last_updated": "2026-10-28T15:23:00.417988+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -2477,10 +2477,10 @@
     "QASGL003": {
       "name": "Absolute Green Lantern Vol.3",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-lantern-vol3",
-      "updated_at": "2026-10-28T14:28:50.810913+00:00"
+      "updated_at": "2026-10-28T15:23:00.415704+00:00"
     },
     "QASDC008": {
       "name": "Absolute Batman #8",
@@ -4909,10 +4909,10 @@
     "QAVEN031": {
       "name": "Avengers #31",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/avengers-31",
-      "updated_at": "2026-10-28T14:28:50.810913+00:00"
+      "updated_at": "2026-10-28T15:23:00.415704+00:00"
     },
     "QASDC001V1": {
       "name": "Absolute Batman #01 (Variante 1)",
