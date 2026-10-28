@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T08:32:23.411189+00:00",
+  "last_updated": "2026-10-28T09:25:07.078040+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -205,10 +205,10 @@
     "QABSB002": {
       "name": "Absolute Batman #2 TPB",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 329,
       "url": "https://tiendapanini.com.mx/absolute-batman-2-tpb",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-10-28T09:25:07.074706+00:00"
     },
     "QXMEW001": {
       "name": "X-Men Elsewhen",
@@ -1789,10 +1789,10 @@
     "QDOOM006V1": {
       "name": "One World Under Doom #6 (portada Variante)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/one-world-under-doom-6-portada-variante",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-10-28T09:25:07.074706+00:00"
     },
     "QDELX010": {
       "name": "Avengers Forever Jason Aaron",
@@ -4909,10 +4909,10 @@
     "QAVEN031": {
       "name": "Avengers #31",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/avengers-31",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-10-28T09:25:07.074706+00:00"
     },
     "QASDC001V1": {
       "name": "Absolute Batman #01 (Variante 1)",
