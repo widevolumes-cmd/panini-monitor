@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T07:27:58.826999+00:00",
+  "last_updated": "2026-10-29T08:23:02.372668+00:00",
   "total_products": 1511,
   "products": {
     "QDCPK017": {
@@ -7405,10 +7405,10 @@
     "QDPOO001": {
       "name": "Deadpool Vol.01",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/deadpool-vol01",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-10-29T08:23:02.370325+00:00"
     },
     "QMMUS033": {
       "name": "Deadpool: La Guerra De Wade Wilson (Marvel Must Have)",
@@ -7952,54 +7952,6 @@
       "stock_status": "IN_STOCK",
       "price": 689,
       "url": "https://tiendapanini.com.mx/joker-complete",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBVIN012": {
-      "name": "Box Long Halloween",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 1699,
-      "url": "https://tiendapanini.com.mx/box-long-halloween",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBSUP013": {
-      "name": "Batman / Superman: World's Finest #13",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 79,
-      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-13",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QALBR001": {
-      "name": "All Star Batman Y Robin",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 539,
-      "url": "https://tiendapanini.com.mx/all-star-batman-y-robin",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QABSO006": {
-      "name": "Arkham Asylum (DC Absolute)",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 799,
-      "url": "https://tiendapanini.com.mx/arkham-asylum-dc-absolute",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDDPO004": {
-      "name": "Deadpool De Duggan Vol.04 (de 4)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 539,
-      "url": "https://tiendapanini.com.mx/deadpool-de-duggan-vol04-de-4",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QJLNN001": {
-      "name": "Justice League / Nathan Never",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 289,
-      "url": "https://tiendapanini.com.mx/justice-league-nathan-never",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QDCOM009": {
@@ -12088,6 +12040,54 @@
       "stock_status": "OUT_OF_STOCK",
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBVIN012": {
+      "name": "Box Long Halloween",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 1699,
+      "url": "https://tiendapanini.com.mx/box-long-halloween",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBSUP013": {
+      "name": "Batman / Superman: World's Finest #13",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 79,
+      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-13",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QALBR001": {
+      "name": "All Star Batman Y Robin",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 539,
+      "url": "https://tiendapanini.com.mx/all-star-batman-y-robin",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QABSO006": {
+      "name": "Arkham Asylum (DC Absolute)",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 799,
+      "url": "https://tiendapanini.com.mx/arkham-asylum-dc-absolute",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDDPO004": {
+      "name": "Deadpool De Duggan Vol.04 (de 4)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 539,
+      "url": "https://tiendapanini.com.mx/deadpool-de-duggan-vol04-de-4",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QJLNN001": {
+      "name": "Justice League / Nathan Never",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 289,
+      "url": "https://tiendapanini.com.mx/justice-league-nathan-never",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
