@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-10-30T00:37:41.755139+00:00",
+  "last_updated": "2026-10-30T01:40:39.006530+00:00",
   "total_products": 1517,
   "products": {
-    "QMMSP001V": {
-      "name": "Marvel Midnight Spider Man #1  Variante 1 (IN YUK LEE)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/marvel-midnight-spider-man-1-variante-1-in-yuk-lee",
-      "updated_at": "2026-10-29T09:18:21.807614+00:00"
-    },
-    "QMMCF001V": {
-      "name": "Marvel Midnight Los Cuatro Fantasticos #1 Variante (E.M.GIST)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/marvel-midnight-los-cuatro-fantasticos-1-variante-emgist",
-      "updated_at": "2026-10-29T09:18:21.807614+00:00"
-    },
-    "QMSTA001V1": {
-      "name": "Marvel Midnight X-Men #1 Variante 1 (SKAN)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/marvel-midnight-x-men-1-variante-1-skan",
-      "updated_at": "2026-10-29T09:18:21.807614+00:00"
-    },
-    "QMSTA001": {
-      "name": "Marvel Midnight X-Men #1",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/marvel-midnight-x-men-1",
-      "updated_at": "2026-10-29T09:18:21.807614+00:00"
-    },
-    "QMMSP001": {
-      "name": "Marvel Midnight Spider Man #1",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/marvel-midnight-spider-man-1",
-      "updated_at": "2026-10-29T09:18:21.807614+00:00"
-    },
-    "QMMCF001": {
-      "name": "Marvel Midnight Los Cuatro Fantasticos #1",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/marvel-midnight-los-cuatro-fantasticos-1",
-      "updated_at": "2026-10-29T09:18:21.807614+00:00"
-    },
     "QDCPK017": {
       "name": "Dark Victory (DC Pocket)",
       "publisher": "DC Comics",
@@ -197,10 +149,10 @@
     "QAWMM008": {
       "name": "Absolute Martian Manhunter #8",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-8",
-      "updated_at": "2026-10-29T23:17:45.032378+00:00"
+      "updated_at": "2026-10-30T01:40:39.003533+00:00"
     },
     "QASWW014": {
       "name": "Absolute Wonder Woman #14",
@@ -10002,54 +9954,6 @@
       "url": "https://tiendapanini.com.mx/x-men-vol28",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QMMUS018": {
-      "name": "El Guantelete Infinito (Marvel Must Have)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 499,
-      "url": "https://tiendapanini.com.mx/el-guantelete-infinito-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QFLAS004": {
-      "name": "Flash Vol.04",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 319,
-      "url": "https://tiendapanini.com.mx/flash-vol04",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QLUCF001": {
-      "name": "Lucifer Vol.01",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 399,
-      "url": "https://tiendapanini.com.mx/lucifer-vol01",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMRMI001": {
-      "name": "Mister Miracle",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 549,
-      "url": "https://tiendapanini.com.mx/mister-miracle",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QKNIG003": {
-      "name": "Moon Knight Vol.03",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 229,
-      "url": "https://tiendapanini.com.mx/moon-knight-vol03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QEVENT002": {
-      "name": "Axe Vol.02",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 189,
-      "url": "https://tiendapanini.com.mx/axe-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
     "QDLUX003": {
       "name": "Batman Whatever Happened To The Caped Crusader",
       "publisher": "DC Comics",
@@ -11909,10 +11813,10 @@
     "QINHU003": {
       "name": "EL INMORTAL HULK VOL.03 (DE 12)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/el-inmortal-hulk-vol03-de-12",
-      "updated_at": "2026-10-29T19:42:05.636942+00:00"
+      "updated_at": "2026-10-30T01:40:39.003533+00:00"
     },
     "QMVIN001": {
       "name": "SPIDER-MAN 2099 (MARVEL VINTAGE  VOL.01)",
@@ -12136,6 +12040,102 @@
       "stock_status": "OUT_OF_STOCK",
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMMSP001V": {
+      "name": "Marvel Midnight Spider Man #1  Variante 1 (IN YUK LEE)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/marvel-midnight-spider-man-1-variante-1-in-yuk-lee",
+      "updated_at": "2026-10-29T09:18:21.807614+00:00"
+    },
+    "QMMCF001V": {
+      "name": "Marvel Midnight Los Cuatro Fantasticos #1 Variante (E.M.GIST)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/marvel-midnight-los-cuatro-fantasticos-1-variante-emgist",
+      "updated_at": "2026-10-29T09:18:21.807614+00:00"
+    },
+    "QMSTA001V1": {
+      "name": "Marvel Midnight X-Men #1 Variante 1 (SKAN)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/marvel-midnight-x-men-1-variante-1-skan",
+      "updated_at": "2026-10-29T09:18:21.807614+00:00"
+    },
+    "QMSTA001": {
+      "name": "Marvel Midnight X-Men #1",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/marvel-midnight-x-men-1",
+      "updated_at": "2026-10-29T09:18:21.807614+00:00"
+    },
+    "QMMSP001": {
+      "name": "Marvel Midnight Spider Man #1",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/marvel-midnight-spider-man-1",
+      "updated_at": "2026-10-29T09:18:21.807614+00:00"
+    },
+    "QMMCF001": {
+      "name": "Marvel Midnight Los Cuatro Fantasticos #1",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/marvel-midnight-los-cuatro-fantasticos-1",
+      "updated_at": "2026-10-29T09:18:21.807614+00:00"
+    },
+    "QMMUS018": {
+      "name": "El Guantelete Infinito (Marvel Must Have)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 499,
+      "url": "https://tiendapanini.com.mx/el-guantelete-infinito-marvel-must-have",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QFLAS004": {
+      "name": "Flash Vol.04",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 319,
+      "url": "https://tiendapanini.com.mx/flash-vol04",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QLUCF001": {
+      "name": "Lucifer Vol.01",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 399,
+      "url": "https://tiendapanini.com.mx/lucifer-vol01",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMRMI001": {
+      "name": "Mister Miracle",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 549,
+      "url": "https://tiendapanini.com.mx/mister-miracle",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QKNIG003": {
+      "name": "Moon Knight Vol.03",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 229,
+      "url": "https://tiendapanini.com.mx/moon-knight-vol03",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QEVENT002": {
+      "name": "Axe Vol.02",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 189,
+      "url": "https://tiendapanini.com.mx/axe-vol02",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
