@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T16:16:47.373840+00:00",
+  "last_updated": "2026-10-30T17:02:59.739134+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -3013,10 +3013,10 @@
     "QASPI038": {
       "name": "The Amazing Spider-Man Vol.38",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-vol38",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-10-30T17:02:59.737074+00:00"
     },
     "QBTMA030": {
       "name": "Batman Vol.30",
