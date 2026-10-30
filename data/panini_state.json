@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T02:29:32.051393+00:00",
+  "last_updated": "2026-10-30T03:18:19.401111+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -4002,6 +4002,54 @@
       "url": "https://tiendapanini.com.mx/black-panther-vs-predator",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
+    "QCTAR003": {
+      "name": "Capitán América Vol.03",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/capitan-america-vol03",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMVIN025": {
+      "name": "X-Men 2099 Vol.01",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 479,
+      "url": "https://tiendapanini.com.mx/x-men-2099-vol01",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDCOM016": {
+      "name": "Batman The Animated Series (DC Omnibus)",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 1823,
+      "url": "https://tiendapanini.com.mx/batman-the-animated-series-dc-omnibus",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMVSC019": {
+      "name": "Marvel Vs Capcom: X-Men #15",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 119,
+      "url": "https://tiendapanini.com.mx/marvel-vs-capcom-x-men-15",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMMUS044": {
+      "name": "Thor Resurrection (Marvel Must Have)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 449,
+      "url": "https://tiendapanini.com.mx/thor-resurrection-marvel-must-have",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QXMNN003": {
+      "name": "X-Men Vol.03",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 169,
+      "url": "https://tiendapanini.com.mx/x-men-vol03",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
     "QFFHC007": {
       "name": "Fantastic Four Hickman Collection Vol.07",
       "publisher": "Marvel Comics",
@@ -4181,10 +4229,10 @@
     "QINJU008": {
       "name": "Injustice Vol.08",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/injustice-vol08",
-      "updated_at": "2026-10-30T02:29:32.048497+00:00"
+      "updated_at": "2026-10-30T03:18:19.398336+00:00"
     },
     "QASPI034": {
       "name": "The Amazing Spider-Man #34",
@@ -7405,10 +7453,10 @@
     "QDPOO001": {
       "name": "Deadpool Vol.01",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/deadpool-vol01",
-      "updated_at": "2026-10-30T02:29:32.048497+00:00"
+      "updated_at": "2026-10-30T03:18:19.398336+00:00"
     },
     "QMMUS033": {
       "name": "Deadpool: La Guerra De Wade Wilson (Marvel Must Have)",
@@ -12088,54 +12136,6 @@
       "stock_status": "OUT_OF_STOCK",
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QCTAR003": {
-      "name": "Capitán América Vol.03",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/capitan-america-vol03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMVIN025": {
-      "name": "X-Men 2099 Vol.01",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 479,
-      "url": "https://tiendapanini.com.mx/x-men-2099-vol01",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDCOM016": {
-      "name": "Batman The Animated Series (DC Omnibus)",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 1823,
-      "url": "https://tiendapanini.com.mx/batman-the-animated-series-dc-omnibus",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMVSC019": {
-      "name": "Marvel Vs Capcom: X-Men #15",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 119,
-      "url": "https://tiendapanini.com.mx/marvel-vs-capcom-x-men-15",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMMUS044": {
-      "name": "Thor Resurrection (Marvel Must Have)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 449,
-      "url": "https://tiendapanini.com.mx/thor-resurrection-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QXMNN003": {
-      "name": "X-Men Vol.03",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 169,
-      "url": "https://tiendapanini.com.mx/x-men-vol03",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
