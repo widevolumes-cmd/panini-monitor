@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T15:20:23.165292+00:00",
+  "last_updated": "2026-10-30T16:16:47.373840+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -3221,10 +3221,10 @@
     "QRETR020": {
       "name": "Spider-Man 2099 Symbyote (Marvel Retropick)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/spider-man-2099-symbyote-marvel-retropick",
-      "updated_at": "2026-10-30T15:20:23.163102+00:00"
+      "updated_at": "2026-10-30T16:16:47.371735+00:00"
     },
     "QMVIN028": {
       "name": "1985 De Millar",
