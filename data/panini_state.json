@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T11:39:49.528353+00:00",
+  "last_updated": "2026-10-31T12:15:09.459449+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -7765,10 +7765,10 @@
     "QWVNE006": {
       "name": "Wolverine Vol.06",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 149,
       "url": "https://tiendapanini.com.mx/wolverine-vol06",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T12:15:09.457264+00:00"
     },
     "QXMEN042": {
       "name": "X-Men Vol.42",
