@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T03:48:10.134259+00:00",
+  "last_updated": "2026-10-31T04:27:28.272906+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -197,10 +197,10 @@
     "QAWMM008": {
       "name": "Absolute Martian Manhunter #8",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-8",
-      "updated_at": "2026-10-31T03:48:10.131512+00:00"
+      "updated_at": "2026-10-31T04:27:28.268882+00:00"
     },
     "QASWW014": {
       "name": "Absolute Wonder Woman #14",
