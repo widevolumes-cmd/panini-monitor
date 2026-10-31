@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T12:15:09.459449+00:00",
+  "last_updated": "2026-10-31T13:11:37.724127+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -1117,10 +1117,10 @@
     "QDCPK015": {
       "name": "Green Lantern Earth One (DC Pocket)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/green-lantern-earth-one-dc-pocket",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QBTLY024": {
       "name": "The Brave And The Bold Vol.2",
@@ -1613,10 +1613,10 @@
     "QNHOU002": {
       "name": "Nice House On The Lake #2",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 459,
       "url": "https://tiendapanini.com.mx/nice-house-on-the-lake-2",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QJLUT008": {
       "name": "Justice League Unlimited #8",
@@ -1933,10 +1933,10 @@
     "QBTMA033": {
       "name": "Batman #33",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-33",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QAVEN040": {
       "name": "Avengers #40",
@@ -1965,10 +1965,10 @@
     "QBTLY023": {
       "name": "The Brave And The Bold",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 359,
       "url": "https://tiendapanini.com.mx/the-brave-and-the-bold",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QASWW010": {
       "name": "Absolute Wonder Woman #10",
@@ -4949,10 +4949,10 @@
     "QBTMA024": {
       "name": "Batman #24",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-24",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QAVEN031": {
       "name": "Avengers #31",
@@ -5205,10 +5205,10 @@
     "QOAMA028": {
       "name": "Capitán América De Ed Brubacker Vol.03",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 903,
       "url": "https://tiendapanini.com.mx/capitan-america-de-ed-brubacker-vol03",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QPIVY005": {
       "name": "Poison Ivy Vol.05",
@@ -5517,10 +5517,10 @@
     "QWNPD001": {
       "name": "Predator Vs. Wolverine",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 209,
       "url": "https://tiendapanini.com.mx/predator-vs-wolverine",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QULSP010": {
       "name": "The Ultimate Spider-Man #10",
@@ -5549,10 +5549,10 @@
     "QEVENT014": {
       "name": "X-Men Blood Hunt",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 149,
       "url": "https://tiendapanini.com.mx/x-men-blood-hunt",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QBTMA022": {
       "name": "Batman #22",
@@ -10525,10 +10525,10 @@
     "QDCNI002": {
       "name": "Nightwing Vol.02",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 219,
       "url": "https://tiendapanini.com.mx/nightwing-vol02",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QCASO002": {
       "name": "Capitán América Vol.02: Símbolo De Verdad",
@@ -10829,10 +10829,10 @@
     "QBTMA003": {
       "name": "Batman #03",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/batman-03",
-      "updated_at": "2026-10-31T11:39:49.526027+00:00"
+      "updated_at": "2026-10-31T13:11:37.720495+00:00"
     },
     "QBTLY001": {
       "name": "Batman / Venom Vol.01",
