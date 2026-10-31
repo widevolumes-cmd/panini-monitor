@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T19:41:10.122568+00:00",
+  "last_updated": "2026-10-31T20:15:05.048416+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -1117,10 +1117,10 @@
     "QDCPK015": {
       "name": "Green Lantern Earth One (DC Pocket)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/green-lantern-earth-one-dc-pocket",
-      "updated_at": "2026-10-31T13:57:53.303207+00:00"
+      "updated_at": "2026-10-31T20:15:05.045081+00:00"
     },
     "QBTLY024": {
       "name": "The Brave And The Bold Vol.2",
@@ -1613,10 +1613,10 @@
     "QNHOU002": {
       "name": "Nice House On The Lake #2",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 459,
       "url": "https://tiendapanini.com.mx/nice-house-on-the-lake-2",
-      "updated_at": "2026-10-31T13:57:53.303207+00:00"
+      "updated_at": "2026-10-31T20:15:05.045081+00:00"
     },
     "QJLUT008": {
       "name": "Justice League Unlimited #8",
@@ -1933,10 +1933,10 @@
     "QBTMA033": {
       "name": "Batman #33",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-33",
-      "updated_at": "2026-10-31T13:57:53.303207+00:00"
+      "updated_at": "2026-10-31T20:15:05.045081+00:00"
     },
     "QAVEN040": {
       "name": "Avengers #40",
@@ -1965,10 +1965,10 @@
     "QBTLY023": {
       "name": "The Brave And The Bold",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 359,
       "url": "https://tiendapanini.com.mx/the-brave-and-the-bold",
-      "updated_at": "2026-10-31T13:57:53.303207+00:00"
+      "updated_at": "2026-10-31T20:15:05.045081+00:00"
     },
     "QASWW010": {
       "name": "Absolute Wonder Woman #10",
