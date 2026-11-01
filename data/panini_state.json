@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T15:27:20.747988+00:00",
+  "last_updated": "2026-11-01T16:04:52.735293+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -3461,10 +3461,10 @@
     "QBNRN003": {
       "name": "Batman & Robin Vol.03",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/batman-robin-vol03",
-      "updated_at": "2026-11-01T14:54:48.925672+00:00"
+      "updated_at": "2026-11-01T16:04:52.732856+00:00"
     },
     "QAVEN035V1": {
       "name": "Avengers #35 (Variante Stitch Phil Noto)",
@@ -3813,10 +3813,10 @@
     "QJLUT002": {
       "name": "Justice League Unlimited #02",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-02",
-      "updated_at": "2026-11-01T14:54:48.925672+00:00"
+      "updated_at": "2026-11-01T16:04:52.732856+00:00"
     },
     "QFFHC008": {
       "name": "Fantastic Four Hickman Collection Vol.08",
@@ -4397,10 +4397,10 @@
     "QMMSD004": {
       "name": "Miles Morales Vol.04",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/miles-morales-vol04",
-      "updated_at": "2026-11-01T15:27:20.745428+00:00"
+      "updated_at": "2026-11-01T16:04:52.732856+00:00"
     },
     "QMVSC015": {
       "name": "Marvel Vs Capcom: Uncannny X-Men #13",
@@ -4821,10 +4821,10 @@
     "QRETR017": {
       "name": "Venom Separation Anxiety (Marvel Retropick)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/venom-separation-anxiety-marvel-retropick",
-      "updated_at": "2026-11-01T15:27:20.745428+00:00"
+      "updated_at": "2026-11-01T16:04:52.732856+00:00"
     },
     "QMVSC008": {
       "name": "Marvel Vs Capcom: Fantastic Four #27",
