@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T12:36:22.929204+00:00",
+  "last_updated": "2026-11-01T13:28:47.215803+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -3461,10 +3461,10 @@
     "QBNRN003": {
       "name": "Batman & Robin Vol.03",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/batman-robin-vol03",
-      "updated_at": "2026-11-01T12:36:22.926720+00:00"
+      "updated_at": "2026-11-01T13:28:47.211852+00:00"
     },
     "QAVEN035V1": {
       "name": "Avengers #35 (Variante Stitch Phil Noto)",
@@ -3813,10 +3813,10 @@
     "QJLUT002": {
       "name": "Justice League Unlimited #02",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-02",
-      "updated_at": "2026-11-01T12:36:22.926720+00:00"
+      "updated_at": "2026-11-01T13:28:47.211852+00:00"
     },
     "QFFHC008": {
       "name": "Fantastic Four Hickman Collection Vol.08",
@@ -4397,10 +4397,10 @@
     "QMMSD004": {
       "name": "Miles Morales Vol.04",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/miles-morales-vol04",
-      "updated_at": "2026-11-01T12:36:22.926720+00:00"
+      "updated_at": "2026-11-01T13:28:47.211852+00:00"
     },
     "QMVSC015": {
       "name": "Marvel Vs Capcom: Uncannny X-Men #13",
@@ -4781,10 +4781,10 @@
     "QULTX002": {
       "name": "Ultimate X-Men Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/ultimate-x-men-vol02",
-      "updated_at": "2026-11-01T12:36:22.926720+00:00"
+      "updated_at": "2026-11-01T13:28:47.211852+00:00"
     },
     "QSRNG002": {
       "name": "Spider-Man Reign Vol.02",
@@ -4821,10 +4821,10 @@
     "QRETR017": {
       "name": "Venom Separation Anxiety (Marvel Retropick)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/venom-separation-anxiety-marvel-retropick",
-      "updated_at": "2026-11-01T12:36:22.926720+00:00"
+      "updated_at": "2026-11-01T13:28:47.211852+00:00"
     },
     "QMVSC008": {
       "name": "Marvel Vs Capcom: Fantastic Four #27",
@@ -8181,10 +8181,10 @@
     "QGLMK001": {
       "name": "X-Men: God Loves, Man Kills",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 333,
       "url": "https://tiendapanini.com.mx/x-men-god-loves-man-kills",
-      "updated_at": "2026-11-01T12:36:22.926720+00:00"
+      "updated_at": "2026-11-01T13:28:47.211852+00:00"
     },
     "QLABD005": {
       "name": "Batman Year 100",
