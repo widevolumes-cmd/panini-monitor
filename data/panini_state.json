@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T08:39:57.538593+00:00",
+  "last_updated": "2026-11-01T09:25:16.443051+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -4397,10 +4397,10 @@
     "QMMSD004": {
       "name": "Miles Morales Vol.04",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/miles-morales-vol04",
-      "updated_at": "2026-11-01T08:39:57.535033+00:00"
+      "updated_at": "2026-11-01T09:25:16.440857+00:00"
     },
     "QMVSC015": {
       "name": "Marvel Vs Capcom: Uncannny X-Men #13",
@@ -7781,10 +7781,10 @@
     "QOAMA020": {
       "name": "New X-Men De Grant Morrison (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1693,
       "url": "https://tiendapanini.com.mx/new-x-men-de-grant-morrison-marvel-omnibus",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-01T09:25:16.440857+00:00"
     },
     "QSTRG001PACK": {
       "name": "Dr. Strange Pack",
@@ -8181,10 +8181,10 @@
     "QGLMK001": {
       "name": "X-Men: God Loves, Man Kills",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 333,
       "url": "https://tiendapanini.com.mx/x-men-god-loves-man-kills",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-01T09:25:16.440857+00:00"
     },
     "QLABD005": {
       "name": "Batman Year 100",
