@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T14:14:01.829102+00:00",
+  "last_updated": "2026-11-01T14:54:48.928184+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -3461,10 +3461,10 @@
     "QBNRN003": {
       "name": "Batman & Robin Vol.03",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/batman-robin-vol03",
-      "updated_at": "2026-11-01T14:14:01.827223+00:00"
+      "updated_at": "2026-11-01T14:54:48.925672+00:00"
     },
     "QAVEN035V1": {
       "name": "Avengers #35 (Variante Stitch Phil Noto)",
@@ -3813,10 +3813,10 @@
     "QJLUT002": {
       "name": "Justice League Unlimited #02",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-02",
-      "updated_at": "2026-11-01T14:14:01.827223+00:00"
+      "updated_at": "2026-11-01T14:54:48.925672+00:00"
     },
     "QFFHC008": {
       "name": "Fantastic Four Hickman Collection Vol.08",
@@ -11597,10 +11597,10 @@
     "QINHU007": {
       "name": "EL INMORTAL HULK VOL.07 (DE 12)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 199,
       "url": "https://tiendapanini.com.mx/el-inmortal-hulk-vol07-de-12",
-      "updated_at": "2026-11-01T14:14:01.827223+00:00"
+      "updated_at": "2026-11-01T14:54:48.925672+00:00"
     },
     "QETER002": {
       "name": "ETERNALS VOL.02",
