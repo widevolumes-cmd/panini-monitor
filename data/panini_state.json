@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T03:25:29.621931+00:00",
+  "last_updated": "2026-11-01T04:20:50.484048+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -4781,10 +4781,10 @@
     "QULTX002": {
       "name": "Ultimate X-Men Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/ultimate-x-men-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-01T04:20:50.481680+00:00"
     },
     "QSRNG002": {
       "name": "Spider-Man Reign Vol.02",
