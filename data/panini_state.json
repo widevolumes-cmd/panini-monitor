@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T02:25:37.253892+00:00",
+  "last_updated": "2026-11-02T03:18:16.946945+00:00",
   "total_products": 1517,
   "products": {
     "QMMSP001V": {
@@ -1757,10 +1757,10 @@
     "QLUCF010": {
       "name": "Lucifer #10",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 389,
       "url": "https://tiendapanini.com.mx/lucifer-10",
-      "updated_at": "2026-11-02T02:25:37.251119+00:00"
+      "updated_at": "2026-11-02T03:18:16.944988+00:00"
     },
     "QASSM010": {
       "name": "Absolute Superman #10",
