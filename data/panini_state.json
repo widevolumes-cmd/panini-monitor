@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T14:33:54.148371+00:00",
+  "last_updated": "2026-11-03T15:21:44.414667+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -7445,10 +7445,10 @@
     "QBNRN001": {
       "name": "Batman & Robin Vol.01",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 229,
       "url": "https://tiendapanini.com.mx/batman-robin-vol01",
-      "updated_at": "2026-11-03T11:29:24.048844+00:00"
+      "updated_at": "2026-11-03T15:21:44.412440+00:00"
     },
     "QEVEN008": {
       "name": "Flashpoint",
