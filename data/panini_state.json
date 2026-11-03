@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T00:44:02.721344+00:00",
+  "last_updated": "2026-11-03T01:46:45.123769+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -6002,13 +6002,253 @@
       "url": "https://tiendapanini.com.mx/wolverine-vol13",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QBSUP020": {
-      "name": "Batman / Superman World's Finest #20",
+    "QXMEN050": {
+      "name": "X-Men Vol.50",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/x-men-vol50",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QSNTY001": {
+      "name": "The Sentry: Legacy",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/the-sentry-legacy",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QULSP009": {
+      "name": "The Ultimate Spider-Man #09",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 129,
+      "url": "https://tiendapanini.com.mx/the-ultimate-spider-man-09",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QPMTH003": {
+      "name": "Promethea Vol.03",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 579,
+      "url": "https://tiendapanini.com.mx/promethea-vol03",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMVIN020": {
+      "name": "Moon Knight By Bryan Wood",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 349,
+      "url": "https://tiendapanini.com.mx/moon-knight-by-bryan-wood",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMMUS039": {
+      "name": "Uncanny Avengers (Marvel Must Have)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 339,
+      "url": "https://tiendapanini.com.mx/uncanny-avengers-marvel-must-have",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMAVE010": {
+      "name": "Fantastic Four (Marvel-Verse)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 151,
+      "url": "https://tiendapanini.com.mx/fantastic-four-marvel-verse",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QKFBZ002": {
+      "name": "Superman: Kneel Before Zod Vol.02",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 149,
+      "url": "https://tiendapanini.com.mx/superman-kneel-before-zod-vol02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QINJU006": {
+      "name": "Injustice Vol.06",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 199,
+      "url": "https://tiendapanini.com.mx/injustice-vol06",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QFFOU003": {
+      "name": "Fantastic Four De Ryan North Vol.03",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 169,
+      "url": "https://tiendapanini.com.mx/fantastic-four-de-ryan-north-vol03",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDCSU012": {
+      "name": "Superman Vol.04: Poder Absoluto",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/superman-vol04-poder-absoluto",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QFFHC002": {
+      "name": "Fantastic Four Hickman Collection Vol.02",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 349,
+      "url": "https://tiendapanini.com.mx/fantastic-four-hickman-collection-vol02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QEVENT013": {
+      "name": "Spider-Man Blood Hunt",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 179,
+      "url": "https://tiendapanini.com.mx/spider-man-blood-hunt",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QABPW004": {
+      "name": "Absolute Power #03",
       "publisher": "DC Comics",
       "stock_status": "IN_STOCK",
       "price": 89,
+      "url": "https://tiendapanini.com.mx/absolute-power-03",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDCPK008": {
+      "name": "Superman For Tomorrow (DC Pocket)",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 239,
+      "url": "https://tiendapanini.com.mx/superman-for-tomorrow-dc-pocket",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBNRN002": {
+      "name": "Batman & Robin Vol.02",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 219,
+      "url": "https://tiendapanini.com.mx/batman-robin-vol02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBMAN012": {
+      "name": "Batman: Gotham Nocturne Act 3",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 399,
+      "url": "https://tiendapanini.com.mx/batman-gotham-nocturne-act-3",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBLHT002": {
+      "name": "Blood Hunt #02",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/blood-hunt-02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBRYO003": {
+      "name": "Batman & Robin Year One #03",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/batman-robin-year-one-03",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBTMA021": {
+      "name": "Batman #21",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/batman-21",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBRBD002": {
+      "name": "Blood Hunt: Red Band #02",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/blood-hunt-red-band-02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBVIN017": {
+      "name": "Batman By Van Fleet",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 479,
+      "url": "https://tiendapanini.com.mx/batman-by-van-fleet",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBTLY017": {
+      "name": "Batman: Pingüino",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 339,
+      "url": "https://tiendapanini.com.mx/batman-pingueino",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QASPI029": {
+      "name": "The Amazing Spider-Man #29",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-29",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QCCXM001M": {
+      "name": "Amazing Spider-Man #509 (variante Venta En CCXP May-25)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 149,
+      "url": "https://tiendapanini.com.mx/amazing-spider-man-509-variante-venta-en-ccxp-may-25",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QCCXP002DC": {
+      "name": "Gargoyle Of Gotham Noir Edition By Rafael Grampá Book One (variante Venta En CCXP May-25)",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/gargoyle-of-gotham-noir-edition-by-rafael-grampa-book-one-variante-venta-en-ccxp-may-25",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMVIN019": {
+      "name": "Ghost Rider / Wolverine / Punisher: Heart Of Darkness",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 339,
+      "url": "https://tiendapanini.com.mx/ghost-rider-wolverine-punisher-heart-of-darkness",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QAVAM004": {
+      "name": "American Vampire Vol.04",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 399,
+      "url": "https://tiendapanini.com.mx/american-vampire-vol04",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QABPW003": {
+      "name": "Absolute Power #02",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/absolute-power-02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "Q100B004": {
+      "name": "100 Bullets Vol.04",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 849,
+      "url": "https://tiendapanini.com.mx/100-bullets-vol04",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBSUP020": {
+      "name": "Batman / Superman World's Finest #20",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 89,
       "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-20",
-      "updated_at": "2026-11-03T00:44:02.718042+00:00"
+      "updated_at": "2026-11-03T01:46:45.121763+00:00"
     },
     "QTLSH003": {
       "name": "Batman: The Last Halloween #03",
@@ -6757,10 +6997,10 @@
     "QRNLV001": {
       "name": "Batman: Robin Lives",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/batman-robin-lives",
-      "updated_at": "2026-11-03T00:44:02.718042+00:00"
+      "updated_at": "2026-11-03T01:46:45.121763+00:00"
     },
     "QMMUS036": {
       "name": "Guardians Of The Galaxy: Cosmic Avengers (Marvel Must Have)",
@@ -7205,10 +7445,10 @@
     "QBNRN001": {
       "name": "Batman & Robin Vol.01",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 229,
       "url": "https://tiendapanini.com.mx/batman-robin-vol01",
-      "updated_at": "2026-11-03T00:44:02.718042+00:00"
+      "updated_at": "2026-11-03T01:46:45.121763+00:00"
     },
     "QEVEN008": {
       "name": "Flashpoint",
@@ -8629,10 +8869,10 @@
     "QBSUP011": {
       "name": "Batman / Superman: World's Finest #11",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-11",
-      "updated_at": "2026-11-03T00:44:02.718042+00:00"
+      "updated_at": "2026-11-03T01:46:45.121763+00:00"
     },
     "QABSO005": {
       "name": "Green Arrow De Kevin Smith",
@@ -12136,246 +12376,6 @@
       "stock_status": "OUT_OF_STOCK",
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QXMEN050": {
-      "name": "X-Men Vol.50",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol50",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QSNTY001": {
-      "name": "The Sentry: Legacy",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/the-sentry-legacy",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QULSP009": {
-      "name": "The Ultimate Spider-Man #09",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 129,
-      "url": "https://tiendapanini.com.mx/the-ultimate-spider-man-09",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QPMTH003": {
-      "name": "Promethea Vol.03",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 579,
-      "url": "https://tiendapanini.com.mx/promethea-vol03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMVIN020": {
-      "name": "Moon Knight By Bryan Wood",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 349,
-      "url": "https://tiendapanini.com.mx/moon-knight-by-bryan-wood",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMMUS039": {
-      "name": "Uncanny Avengers (Marvel Must Have)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 339,
-      "url": "https://tiendapanini.com.mx/uncanny-avengers-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMAVE010": {
-      "name": "Fantastic Four (Marvel-Verse)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 151,
-      "url": "https://tiendapanini.com.mx/fantastic-four-marvel-verse",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QKFBZ002": {
-      "name": "Superman: Kneel Before Zod Vol.02",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 149,
-      "url": "https://tiendapanini.com.mx/superman-kneel-before-zod-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QINJU006": {
-      "name": "Injustice Vol.06",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 199,
-      "url": "https://tiendapanini.com.mx/injustice-vol06",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QFFOU003": {
-      "name": "Fantastic Four De Ryan North Vol.03",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 169,
-      "url": "https://tiendapanini.com.mx/fantastic-four-de-ryan-north-vol03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDCSU012": {
-      "name": "Superman Vol.04: Poder Absoluto",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/superman-vol04-poder-absoluto",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QFFHC002": {
-      "name": "Fantastic Four Hickman Collection Vol.02",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 349,
-      "url": "https://tiendapanini.com.mx/fantastic-four-hickman-collection-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QEVENT013": {
-      "name": "Spider-Man Blood Hunt",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 179,
-      "url": "https://tiendapanini.com.mx/spider-man-blood-hunt",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QABPW004": {
-      "name": "Absolute Power #03",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/absolute-power-03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDCPK008": {
-      "name": "Superman For Tomorrow (DC Pocket)",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 239,
-      "url": "https://tiendapanini.com.mx/superman-for-tomorrow-dc-pocket",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBNRN002": {
-      "name": "Batman & Robin Vol.02",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 219,
-      "url": "https://tiendapanini.com.mx/batman-robin-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBMAN012": {
-      "name": "Batman: Gotham Nocturne Act 3",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 399,
-      "url": "https://tiendapanini.com.mx/batman-gotham-nocturne-act-3",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBLHT002": {
-      "name": "Blood Hunt #02",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/blood-hunt-02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBRYO003": {
-      "name": "Batman & Robin Year One #03",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/batman-robin-year-one-03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBTMA021": {
-      "name": "Batman #21",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/batman-21",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBRBD002": {
-      "name": "Blood Hunt: Red Band #02",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/blood-hunt-red-band-02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBVIN017": {
-      "name": "Batman By Van Fleet",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 479,
-      "url": "https://tiendapanini.com.mx/batman-by-van-fleet",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBTLY017": {
-      "name": "Batman: Pingüino",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 339,
-      "url": "https://tiendapanini.com.mx/batman-pingueino",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QASPI029": {
-      "name": "The Amazing Spider-Man #29",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-29",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QCCXM001M": {
-      "name": "Amazing Spider-Man #509 (variante Venta En CCXP May-25)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 149,
-      "url": "https://tiendapanini.com.mx/amazing-spider-man-509-variante-venta-en-ccxp-may-25",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QCCXP002DC": {
-      "name": "Gargoyle Of Gotham Noir Edition By Rafael Grampá Book One (variante Venta En CCXP May-25)",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/gargoyle-of-gotham-noir-edition-by-rafael-grampa-book-one-variante-venta-en-ccxp-may-25",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMVIN019": {
-      "name": "Ghost Rider / Wolverine / Punisher: Heart Of Darkness",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 339,
-      "url": "https://tiendapanini.com.mx/ghost-rider-wolverine-punisher-heart-of-darkness",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QAVAM004": {
-      "name": "American Vampire Vol.04",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 399,
-      "url": "https://tiendapanini.com.mx/american-vampire-vol04",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QABPW003": {
-      "name": "Absolute Power #02",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/absolute-power-02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "Q100B004": {
-      "name": "100 Bullets Vol.04",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 849,
-      "url": "https://tiendapanini.com.mx/100-bullets-vol04",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
