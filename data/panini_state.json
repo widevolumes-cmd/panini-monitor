@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T01:45:17.998466+00:00",
+  "last_updated": "2026-11-04T02:30:42.900984+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -8565,10 +8565,10 @@
     "QASPI020": {
       "name": "The Amazing Spider-Man #20",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-20",
-      "updated_at": "2026-11-04T01:45:17.995315+00:00"
+      "updated_at": "2026-11-04T02:30:42.898916+00:00"
     },
     "QAVAM002": {
       "name": "American Vampire Vol.02",
@@ -8645,10 +8645,10 @@
     "QBTMA012": {
       "name": "Batman #12",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/batman-12",
-      "updated_at": "2026-11-04T01:45:17.995315+00:00"
+      "updated_at": "2026-11-04T02:30:42.898916+00:00"
     },
     "QBVIN010": {
       "name": "Batman: Haunted Knight",
@@ -9277,10 +9277,10 @@
     "QBSUP010": {
       "name": "Batman / Superman: World's Finest #10",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-10",
-      "updated_at": "2026-11-04T01:45:17.995315+00:00"
+      "updated_at": "2026-11-04T02:30:42.898916+00:00"
     },
     "QDCOM007": {
       "name": "Batman De Tomasi & Gleason (DC Omnibus)",
@@ -11789,10 +11789,10 @@
     "QINHU006": {
       "name": "EL INMORTAL HULK VOL.06 (DE 12)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/el-inmortal-hulk-vol06-de-12",
-      "updated_at": "2026-11-04T01:45:17.995315+00:00"
+      "updated_at": "2026-11-04T02:30:42.898916+00:00"
     },
     "QXMEN013": {
       "name": "X-MEN (2023) VOL.13",
@@ -12253,10 +12253,10 @@
     "QINHU002": {
       "name": "EL INMORTAL HULK VOL.02 (DE 12)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/el-inmortal-hulk-vol02-de-12",
-      "updated_at": "2026-11-04T01:45:17.995315+00:00"
+      "updated_at": "2026-11-04T02:30:42.898916+00:00"
     },
     "QAVEN002": {
       "name": "AVENGERS (2023) #02",
@@ -12333,10 +12333,10 @@
     "QINHU001": {
       "name": "Inmortal Hulk Vol.01 (De 12)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/inmortal-hulk-vol01-de-12",
-      "updated_at": "2026-11-04T01:45:17.995315+00:00"
+      "updated_at": "2026-11-04T02:30:42.898916+00:00"
     },
     "QMSMM001": {
       "name": "Ms. Marvel Vol. 01",
