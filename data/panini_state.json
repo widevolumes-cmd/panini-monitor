@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T07:49:03.485498+00:00",
+  "last_updated": "2026-11-04T08:42:08.572812+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1277,10 +1277,10 @@
     "QOAMA036": {
       "name": "X-Men De Claremont Y Lee 1 (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1173,
       "url": "https://tiendapanini.com.mx/x-men-de-claremont-y-lee-1-marvel-omnibus",
-      "updated_at": "2026-11-04T07:49:03.483445+00:00"
+      "updated_at": "2026-11-04T08:42:08.569997+00:00"
     },
     "QGRJS001": {
       "name": "Green Lantern John Stewart",
@@ -2181,10 +2181,10 @@
     "QAVEN040": {
       "name": "Avengers #40",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/avengers-40",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-04T08:42:08.569997+00:00"
     },
     "QASGL005": {
       "name": "Absolute Green Lantern #5",
@@ -3917,10 +3917,10 @@
     "QICHK003": {
       "name": "Incredible Hulk Vol.03",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/incredible-hulk-vol03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-04T08:42:08.569997+00:00"
     },
     "QTTNS003": {
       "name": "Titans Vol.03",
@@ -6325,10 +6325,10 @@
     "QICHK002": {
       "name": "Incredible Hulk Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/incredible-hulk-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-04T08:42:08.569997+00:00"
     },
     "QGRMO001": {
       "name": "Avengers Forever",
