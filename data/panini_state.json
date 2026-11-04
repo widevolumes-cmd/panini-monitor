@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T10:52:43.948638+00:00",
+  "last_updated": "2026-11-04T11:49:38.798804+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -2181,10 +2181,10 @@
     "QAVEN040": {
       "name": "Avengers #40",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/avengers-40",
-      "updated_at": "2026-11-04T10:52:43.946976+00:00"
+      "updated_at": "2026-11-04T11:49:38.796045+00:00"
     },
     "QASGL005": {
       "name": "Absolute Green Lantern #5",
@@ -3917,10 +3917,10 @@
     "QICHK003": {
       "name": "Incredible Hulk Vol.03",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/incredible-hulk-vol03",
-      "updated_at": "2026-11-04T10:52:43.946976+00:00"
+      "updated_at": "2026-11-04T11:49:38.796045+00:00"
     },
     "QTTNS003": {
       "name": "Titans Vol.03",
@@ -4765,10 +4765,10 @@
     "QDCNI009": {
       "name": "Nightwing Vol.09",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/nightwing-vol09",
-      "updated_at": "2026-11-04T10:52:43.946976+00:00"
+      "updated_at": "2026-11-04T11:49:38.796045+00:00"
     },
     "QMVSC011": {
       "name": "Marvel Vs Capcom: Iron Man (2024) #3",
@@ -5397,10 +5397,10 @@
     "QXMEN052": {
       "name": "X-Men Vol.52",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/x-men-vol52",
-      "updated_at": "2026-11-04T10:52:43.946976+00:00"
+      "updated_at": "2026-11-04T11:49:38.796045+00:00"
     },
     "QMMUS041": {
       "name": "Wolverine: Weapon Of X (Marvel Must Have)",
@@ -6325,10 +6325,10 @@
     "QICHK002": {
       "name": "Incredible Hulk Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/incredible-hulk-vol02",
-      "updated_at": "2026-11-04T10:52:43.946976+00:00"
+      "updated_at": "2026-11-04T11:49:38.796045+00:00"
     },
     "QGRMO001": {
       "name": "Avengers Forever",
