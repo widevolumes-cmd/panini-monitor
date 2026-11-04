@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T13:50:15.477177+00:00",
+  "last_updated": "2026-11-04T14:44:09.050543+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1277,10 +1277,10 @@
     "QOAMA036": {
       "name": "X-Men De Claremont Y Lee 1 (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1173,
       "url": "https://tiendapanini.com.mx/x-men-de-claremont-y-lee-1-marvel-omnibus",
-      "updated_at": "2026-11-04T12:37:28.485003+00:00"
+      "updated_at": "2026-11-04T14:44:09.046455+00:00"
     },
     "QGRJS001": {
       "name": "Green Lantern John Stewart",
@@ -4765,10 +4765,10 @@
     "QDCNI009": {
       "name": "Nightwing Vol.09",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/nightwing-vol09",
-      "updated_at": "2026-11-04T12:37:28.485003+00:00"
+      "updated_at": "2026-11-04T14:44:09.046455+00:00"
     },
     "QMVSC011": {
       "name": "Marvel Vs Capcom: Iron Man (2024) #3",
@@ -5397,10 +5397,10 @@
     "QXMEN052": {
       "name": "X-Men Vol.52",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/x-men-vol52",
-      "updated_at": "2026-11-04T12:37:28.485003+00:00"
+      "updated_at": "2026-11-04T14:44:09.046455+00:00"
     },
     "QMMUS041": {
       "name": "Wolverine: Weapon Of X (Marvel Must Have)",
@@ -6325,10 +6325,10 @@
     "QICHK002": {
       "name": "Incredible Hulk Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/incredible-hulk-vol02",
-      "updated_at": "2026-11-04T13:50:15.474158+00:00"
+      "updated_at": "2026-11-04T14:44:09.046455+00:00"
     },
     "QGRMO001": {
       "name": "Avengers Forever",
