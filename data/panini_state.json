@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T07:54:53.298597+00:00",
+  "last_updated": "2026-11-05T08:51:26.073473+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1637,10 +1637,10 @@
     "QASDC011": {
       "name": "Absolute Batman #11",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-11",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-05T08:51:26.071657+00:00"
     },
     "QASTA003": {
       "name": "Jessica Jones BlindSpot",
