@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T21:19:12.455981+00:00",
+  "last_updated": "2026-11-05T22:07:08.784770+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -4709,10 +4709,10 @@
     "QXMNN002": {
       "name": "X-Men Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/x-men-vol02",
-      "updated_at": "2026-11-05T21:19:12.452922+00:00"
+      "updated_at": "2026-11-05T22:07:08.782739+00:00"
     },
     "QOAMA030": {
       "name": "Ultimate Spider-Man Vol.03 (Marvel Omnibus)",
