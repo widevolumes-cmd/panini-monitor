@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T10:53:57.096063+00:00",
+  "last_updated": "2026-11-05T11:49:46.629056+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1637,10 +1637,10 @@
     "QASDC011": {
       "name": "Absolute Batman #11",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-11",
-      "updated_at": "2026-11-05T09:52:17.722539+00:00"
+      "updated_at": "2026-11-05T11:49:46.626828+00:00"
     },
     "QASTA003": {
       "name": "Jessica Jones BlindSpot",
@@ -4709,10 +4709,10 @@
     "QXMNN002": {
       "name": "X-Men Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/x-men-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-05T11:49:46.626828+00:00"
     },
     "QOAMA030": {
       "name": "Ultimate Spider-Man Vol.03 (Marvel Omnibus)",
@@ -8805,10 +8805,10 @@
     "QWWOM003V1": {
       "name": "Wonder Woman Vol. 01 (Portada Variante)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/wonder-woman-vol-01-portada-variante",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-05T11:49:46.626828+00:00"
     },
     "QDCWR001": {
       "name": "Joker En El Mundo",
@@ -10405,10 +10405,10 @@
     "QRETR002": {
       "name": "New Fantastic Four (Marvel Retropick)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/new-fantastic-four-marvel-retropick",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-05T11:49:46.626828+00:00"
     },
     "QOAMA009": {
       "name": "Wolverine De Mark Millar (Marvel Omnibus)",
