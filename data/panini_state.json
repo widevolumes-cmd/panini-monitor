@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T10:46:47.407993+00:00",
+  "last_updated": "2026-11-06T11:38:45.298213+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -4053,10 +4053,10 @@
     "QJLUT002": {
       "name": "Justice League Unlimited #02",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-02",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QFFHC008": {
       "name": "Fantastic Four Hickman Collection Vol.08",
@@ -4149,10 +4149,10 @@
     "QABPW001PACK": {
       "name": "Pack Absolute Power",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 299,
       "url": "https://tiendapanini.com.mx/pack-absolute-power",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QDCHU001": {
       "name": "Hush 2 #01",
@@ -4213,10 +4213,10 @@
     "QASSM003": {
       "name": "Absolute Superman #03",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-superman-03",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QBSUP026": {
       "name": "Batman / Superman World's Finest #26",
@@ -4541,10 +4541,10 @@
     "QASWW002": {
       "name": "Absolute Wonder Woman #02",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-wonder-woman-02",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QAVAM006": {
       "name": "American Vampire Vol.06",
@@ -5085,10 +5085,10 @@
     "QASWW001V4": {
       "name": "Absolute Wonder Woman #01 (Variante 4)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 129,
       "url": "https://tiendapanini.com.mx/absolute-wonder-woman-01-variante-4",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QLANT006": {
       "name": "Green Lantern Vol.06",
@@ -8157,10 +8157,10 @@
     "QULSP001V1": {
       "name": "Ultimate Spider-Man #1 (variante)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 129,
       "url": "https://tiendapanini.com.mx/ultimate-spider-man-1-variante",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QTSIM001PACK": {
       "name": "Iron Man Pack",
@@ -10245,10 +10245,10 @@
     "QMMUS018": {
       "name": "El Guantelete Infinito (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 499,
       "url": "https://tiendapanini.com.mx/el-guantelete-infinito-marvel-must-have",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QFLAS004": {
       "name": "Flash Vol.04",
@@ -11069,10 +11069,10 @@
     "QBTMA003": {
       "name": "Batman #03",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/batman-03",
-      "updated_at": "2026-11-06T09:46:45.685199+00:00"
+      "updated_at": "2026-11-06T11:38:45.296954+00:00"
     },
     "QBTLY001": {
       "name": "Batman / Venom Vol.01",
