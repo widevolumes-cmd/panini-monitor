@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T17:14:15.486296+00:00",
+  "last_updated": "2026-11-06T18:01:56.382893+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -6253,10 +6253,10 @@
     "QTLSH003": {
       "name": "Batman: The Last Halloween #03",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-the-last-halloween-03",
-      "updated_at": "2026-11-06T17:14:15.483545+00:00"
+      "updated_at": "2026-11-06T18:01:56.380402+00:00"
     },
     "QXMEN049": {
       "name": "X-Men Vol.49",
@@ -6997,10 +6997,10 @@
     "QRNLV001": {
       "name": "Batman: Robin Lives",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/batman-robin-lives",
-      "updated_at": "2026-11-06T17:14:15.483545+00:00"
+      "updated_at": "2026-11-06T18:01:56.380402+00:00"
     },
     "QMMUS036": {
       "name": "Guardians Of The Galaxy: Cosmic Avengers (Marvel Must Have)",
@@ -7157,10 +7157,10 @@
     "QASPI025": {
       "name": "The Amazing Spider-Man #25",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-25",
-      "updated_at": "2026-11-06T17:14:15.483545+00:00"
+      "updated_at": "2026-11-06T18:01:56.380402+00:00"
     },
     "QWWOM004": {
       "name": "Wonder Woman Vol.02 (nueva Serie)",
