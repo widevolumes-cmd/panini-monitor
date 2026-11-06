@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T14:39:42.200488+00:00",
+  "last_updated": "2026-11-06T15:26:40.903782+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1381,10 +1381,10 @@
     "QMMUS053": {
       "name": "Silver Surfer Black (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/silver-surfer-black-marvel-must-have",
-      "updated_at": "2026-11-06T14:39:42.195196+00:00"
+      "updated_at": "2026-11-06T15:26:40.902115+00:00"
     },
     "QDPOO006": {
       "name": "Deadpool Vol.06",
@@ -12309,10 +12309,10 @@
     "QASPI001": {
       "name": "Amazing Spider-Man (2023) #1",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/amazing-spider-man-2023-1",
-      "updated_at": "2026-11-06T14:39:42.195196+00:00"
+      "updated_at": "2026-11-06T15:26:40.902115+00:00"
     },
     "QAVEN001": {
       "name": "Avengers (2023) #01",
