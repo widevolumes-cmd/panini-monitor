@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T19:45:06.055318+00:00",
+  "last_updated": "2026-11-06T20:30:10.136072+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -12309,10 +12309,10 @@
     "QASPI001": {
       "name": "Amazing Spider-Man (2023) #1",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/amazing-spider-man-2023-1",
-      "updated_at": "2026-11-06T18:55:03.571329+00:00"
+      "updated_at": "2026-11-06T20:30:10.134082+00:00"
     },
     "QAVEN001": {
       "name": "Avengers (2023) #01",
