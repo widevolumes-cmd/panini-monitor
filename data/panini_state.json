@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T14:13:47.781476+00:00",
+  "last_updated": "2026-11-07T14:56:57.458084+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1141,10 +1141,10 @@
     "QDCOM021": {
       "name": "Green Lantern By Geoff Johns (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1933,
       "url": "https://tiendapanini.com.mx/green-lantern-by-geoff-johns-dc-omnibus",
-      "updated_at": "2026-11-07T14:13:47.778452+00:00"
+      "updated_at": "2026-11-07T14:56:57.455637+00:00"
     },
     "QMVIN032": {
       "name": "Untold Tales Of Spider-Man #2",
@@ -4093,10 +4093,10 @@
     "QASPI035": {
       "name": "The Amazing Spider-Man #35",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-35",
-      "updated_at": "2026-11-07T14:13:47.778452+00:00"
+      "updated_at": "2026-11-07T14:56:57.455637+00:00"
     },
     "QBVIN022": {
       "name": "Batman De Grant Morrison: Batman Reborn",
@@ -5765,10 +5765,10 @@
     "QASPI030": {
       "name": "The Amazing Spider-Man #30",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-30",
-      "updated_at": "2026-11-07T14:13:47.778452+00:00"
+      "updated_at": "2026-11-07T14:56:57.455637+00:00"
     },
     "QAVEN029": {
       "name": "Avengers #29",
@@ -7993,14 +7993,6 @@
       "price": 349,
       "url": "https://tiendapanini.com.mx/la-ultima-caceria-de-kraven-marvel-must-have",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QWVNE006": {
-      "name": "Wolverine Vol.06",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 149,
-      "url": "https://tiendapanini.com.mx/wolverine-vol06",
-      "updated_at": "2026-10-31T13:57:53.303207+00:00"
     },
     "QXMEN042": {
       "name": "X-Men Vol.42",
@@ -12369,6 +12361,14 @@
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QWVNE006": {
+      "name": "Wolverine Vol.06",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 149,
+      "url": "https://tiendapanini.com.mx/wolverine-vol06",
+      "updated_at": "2026-10-31T13:57:53.303207+00:00"
     },
     "QABSB002": {
       "name": "Absolute Batman #2 TPB",
