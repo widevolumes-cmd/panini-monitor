@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T10:16:44.035676+00:00",
+  "last_updated": "2026-11-07T11:00:26.242843+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1141,10 +1141,10 @@
     "QDCOM021": {
       "name": "Green Lantern By Geoff Johns (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1933,
       "url": "https://tiendapanini.com.mx/green-lantern-by-geoff-johns-dc-omnibus",
-      "updated_at": "2026-11-07T07:56:30.953560+00:00"
+      "updated_at": "2026-11-07T11:00:26.240522+00:00"
     },
     "QMVIN032": {
       "name": "Untold Tales Of Spider-Man #2",
@@ -4093,10 +4093,10 @@
     "QASPI035": {
       "name": "The Amazing Spider-Man #35",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-35",
-      "updated_at": "2026-11-07T07:56:30.953560+00:00"
+      "updated_at": "2026-11-07T11:00:26.240522+00:00"
     },
     "QBVIN022": {
       "name": "Batman De Grant Morrison: Batman Reborn",
@@ -5765,10 +5765,10 @@
     "QASPI030": {
       "name": "The Amazing Spider-Man #30",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-30",
-      "updated_at": "2026-11-07T07:56:30.953560+00:00"
+      "updated_at": "2026-11-07T11:00:26.240522+00:00"
     },
     "QAVEN029": {
       "name": "Avengers #29",
@@ -6797,10 +6797,10 @@
     "QASPI027": {
       "name": "The Amazing Spider-Man #27",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-27",
-      "updated_at": "2026-11-07T07:56:30.953560+00:00"
+      "updated_at": "2026-11-07T11:00:26.240522+00:00"
     },
     "QINVI003": {
       "name": "Invincible Iron Man Vol.03",
