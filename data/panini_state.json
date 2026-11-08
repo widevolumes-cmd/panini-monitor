@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T21:40:40.077813+00:00",
+  "last_updated": "2026-11-08T22:20:17.965753+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -8357,10 +8357,10 @@
     "QOAMA019": {
       "name": "Daredevil De Frank Miller Vol.01 (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1313,
       "url": "https://tiendapanini.com.mx/daredevil-de-frank-miller-vol01-marvel-omnibus",
-      "updated_at": "2026-11-08T15:43:45.211897+00:00"
+      "updated_at": "2026-11-08T22:20:17.963496+00:00"
     },
     "QVENO005": {
       "name": "Venom Vol.05",
