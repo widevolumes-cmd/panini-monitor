@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T14:40:57.193400+00:00",
+  "last_updated": "2026-11-09T15:42:51.915266+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -7637,10 +7637,10 @@
     "QDCNI004": {
       "name": "Nightwing Vol.04",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/nightwing-vol04",
-      "updated_at": "2026-11-09T14:40:57.191058+00:00"
+      "updated_at": "2026-11-09T15:42:51.911930+00:00"
     },
     "QBMAN009": {
       "name": "Batman: Gotham Nocturne Act 1",
