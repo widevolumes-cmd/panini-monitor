@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T17:44:51.101025+00:00",
+  "last_updated": "2026-11-09T18:35:50.974217+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -489,6 +489,14 @@
       "price": 301,
       "url": "https://tiendapanini.com.mx/marvel-masterworks-x-men",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QABSB002": {
+      "name": "Absolute Batman #2 TPB",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 329,
+      "url": "https://tiendapanini.com.mx/absolute-batman-2-tpb",
+      "updated_at": "2026-10-28T09:25:07.074706+00:00"
     },
     "QXMEW001": {
       "name": "X-Men Elsewhen",
@@ -3994,6 +4002,14 @@
       "url": "https://tiendapanini.com.mx/wolverine-vol04-qwlve004",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
+    "QTLSH007": {
+      "name": "Batman: The Last Halloween #07",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/batman-the-last-halloween-07",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
     "QMVIN026": {
       "name": "Spider-Man Jean De Wolff",
       "publisher": "Marvel Comics",
@@ -5984,14 +6000,6 @@
       "stock_status": "IN_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/wolverine-vol13",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QXMEN050": {
-      "name": "X-Men Vol.50",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol50",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QSNTY001": {
@@ -9986,14 +9994,6 @@
       "url": "https://tiendapanini.com.mx/x-men-vol29",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QSTRG001": {
-      "name": "Doctor Strange Vol.01",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 199,
-      "url": "https://tiendapanini.com.mx/doctor-strange-vol01",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
     "QRETR003": {
       "name": "Wolverine: Patch (Marvel Retropick)",
       "publisher": "Marvel Comics",
@@ -11986,6 +11986,14 @@
       "url": "https://tiendapanini.com.mx/new-mutants-la-saga-del-oso-mistico-marvel-must-have",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
+    "QMSMM002": {
+      "name": "MS. MARVEL VOL. 02 (MARVEL TEENS)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 319,
+      "url": "https://tiendapanini.com.mx/ms-marvel-vol-02-marvel-teens",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
     "QOAMA002": {
       "name": "ETERNALS DE JACK KIRBY (MARVEL OMNIBUS)",
       "publisher": "Marvel Comics",
@@ -12354,28 +12362,20 @@
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QABSB002": {
-      "name": "Absolute Batman #2 TPB",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 329,
-      "url": "https://tiendapanini.com.mx/absolute-batman-2-tpb",
-      "updated_at": "2026-10-28T09:25:07.074706+00:00"
-    },
-    "QTLSH007": {
-      "name": "Batman: The Last Halloween #07",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/batman-the-last-halloween-07",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMSMM002": {
-      "name": "MS. MARVEL VOL. 02 (MARVEL TEENS)",
+    "QXMEN050": {
+      "name": "X-Men Vol.50",
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
-      "price": 319,
-      "url": "https://tiendapanini.com.mx/ms-marvel-vol-02-marvel-teens",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/x-men-vol50",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QSTRG001": {
+      "name": "Doctor Strange Vol.01",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 199,
+      "url": "https://tiendapanini.com.mx/doctor-strange-vol01",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
