@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T22:14:43.057030+00:00",
+  "last_updated": "2026-11-09T23:01:49.105664+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -489,6 +489,14 @@
       "price": 301,
       "url": "https://tiendapanini.com.mx/marvel-masterworks-x-men",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QABSB002": {
+      "name": "Absolute Batman #2 TPB",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 329,
+      "url": "https://tiendapanini.com.mx/absolute-batman-2-tpb",
+      "updated_at": "2026-10-28T09:25:07.074706+00:00"
     },
     "QXMEW001": {
       "name": "X-Men Elsewhen",
@@ -1077,10 +1085,10 @@
     "QASPI043": {
       "name": "The Amazing Spider-Man #43",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-43",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-09T23:01:49.102220+00:00"
     },
     "QDELX011": {
       "name": "Infamous Iron Man",
@@ -1994,14 +2002,6 @@
       "url": "https://tiendapanini.com.mx/lucifer-10",
       "updated_at": "2026-11-06T19:45:06.050621+00:00"
     },
-    "QASSM010": {
-      "name": "Absolute Superman #10",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/absolute-superman-10",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
     "QFACS007": {
       "name": "Adventure Comic #210 (Facsimile)",
       "publisher": "DC Comics",
@@ -2565,10 +2565,10 @@
     "QJLUT006": {
       "name": "Justice League Unlimited #6",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-6",
-      "updated_at": "2026-11-09T20:29:52.914550+00:00"
+      "updated_at": "2026-11-09T23:01:49.102220+00:00"
     },
     "QKRYT001": {
       "name": "Krypto: El Último Perro De Krypton",
@@ -3994,6 +3994,14 @@
       "url": "https://tiendapanini.com.mx/wolverine-vol04-qwlve004",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
+    "QTLSH007": {
+      "name": "Batman: The Last Halloween #07",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/batman-the-last-halloween-07",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
     "QMVIN026": {
       "name": "Spider-Man Jean De Wolff",
       "publisher": "Marvel Comics",
@@ -5389,10 +5397,10 @@
     "QMMUS041": {
       "name": "Wolverine: Weapon Of X (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/wolverine-weapon-of-x-marvel-must-have",
-      "updated_at": "2026-11-09T20:29:52.914550+00:00"
+      "updated_at": "2026-11-09T23:01:49.102220+00:00"
     },
     "QULSP011": {
       "name": "The Ultimate Spider-Man #11",
@@ -7685,10 +7693,10 @@
     "QMMUS033": {
       "name": "Deadpool: La Guerra De Wade Wilson (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 329,
       "url": "https://tiendapanini.com.mx/deadpool-la-guerra-de-wade-wilson-marvel-must-have",
-      "updated_at": "2026-11-09T22:14:43.054475+00:00"
+      "updated_at": "2026-11-09T23:01:49.102220+00:00"
     },
     "QEVENT007": {
       "name": "Fall Of X: Jean Grey / Astonishing Iceman",
@@ -7981,10 +7989,10 @@
     "QMMUS031": {
       "name": "La Última Cacería De Kraven (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/la-ultima-caceria-de-kraven-marvel-must-have",
-      "updated_at": "2026-11-09T22:14:43.054475+00:00"
+      "updated_at": "2026-11-09T23:01:49.102220+00:00"
     },
     "QWVNE006": {
       "name": "Wolverine Vol.06",
@@ -12362,20 +12370,12 @@
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QABSB002": {
-      "name": "Absolute Batman #2 TPB",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 329,
-      "url": "https://tiendapanini.com.mx/absolute-batman-2-tpb",
-      "updated_at": "2026-10-28T09:25:07.074706+00:00"
-    },
-    "QTLSH007": {
-      "name": "Batman: The Last Halloween #07",
+    "QASSM010": {
+      "name": "Absolute Superman #10",
       "publisher": "DC Comics",
       "stock_status": "IN_STOCK",
       "price": 89,
-      "url": "https://tiendapanini.com.mx/batman-the-last-halloween-07",
+      "url": "https://tiendapanini.com.mx/absolute-superman-10",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
