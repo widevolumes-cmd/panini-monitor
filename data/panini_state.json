@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T18:35:50.974217+00:00",
+  "last_updated": "2026-11-09T19:37:04.397664+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -2001,14 +2001,6 @@
       "price": 389,
       "url": "https://tiendapanini.com.mx/lucifer-10",
       "updated_at": "2026-11-06T19:45:06.050621+00:00"
-    },
-    "QASSM010": {
-      "name": "Absolute Superman #10",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/absolute-superman-10",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QFACS007": {
       "name": "Adventure Comic #210 (Facsimile)",
@@ -5405,10 +5397,10 @@
     "QMMUS041": {
       "name": "Wolverine: Weapon Of X (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/wolverine-weapon-of-x-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-09T19:37:04.395704+00:00"
     },
     "QULSP011": {
       "name": "The Ultimate Spider-Man #11",
@@ -6000,6 +5992,14 @@
       "stock_status": "IN_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/wolverine-vol13",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QXMEN050": {
+      "name": "X-Men Vol.50",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/x-men-vol50",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QSNTY001": {
@@ -7693,10 +7693,10 @@
     "QMMUS033": {
       "name": "Deadpool: La Guerra De Wade Wilson (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 329,
       "url": "https://tiendapanini.com.mx/deadpool-la-guerra-de-wade-wilson-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-09T19:37:04.395704+00:00"
     },
     "QEVENT007": {
       "name": "Fall Of X: Jean Grey / Astonishing Iceman",
@@ -7989,10 +7989,10 @@
     "QMMUS031": {
       "name": "La Última Cacería De Kraven (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/la-ultima-caceria-de-kraven-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-09T19:37:04.395704+00:00"
     },
     "QWVNE006": {
       "name": "Wolverine Vol.06",
@@ -9992,6 +9992,14 @@
       "stock_status": "IN_STOCK",
       "price": 219,
       "url": "https://tiendapanini.com.mx/x-men-vol29",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QSTRG001": {
+      "name": "Doctor Strange Vol.01",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 199,
+      "url": "https://tiendapanini.com.mx/doctor-strange-vol01",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QRETR003": {
@@ -12362,20 +12370,12 @@
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QXMEN050": {
-      "name": "X-Men Vol.50",
-      "publisher": "Marvel Comics",
+    "QASSM010": {
+      "name": "Absolute Superman #10",
+      "publisher": "DC Comics",
       "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol50",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QSTRG001": {
-      "name": "Doctor Strange Vol.01",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 199,
-      "url": "https://tiendapanini.com.mx/doctor-strange-vol01",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/absolute-superman-10",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
