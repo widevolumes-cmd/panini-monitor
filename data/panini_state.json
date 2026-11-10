@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T04:21:53.787606+00:00",
+  "last_updated": "2026-11-10T05:23:03.822062+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1085,10 +1085,10 @@
     "QASPI043": {
       "name": "The Amazing Spider-Man #43",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-43",
-      "updated_at": "2026-11-10T02:29:56.873730+00:00"
+      "updated_at": "2026-11-10T05:23:03.820432+00:00"
     },
     "QDELX011": {
       "name": "Infamous Iron Man",
@@ -7701,10 +7701,10 @@
     "QMMUS033": {
       "name": "Deadpool: La Guerra De Wade Wilson (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 329,
       "url": "https://tiendapanini.com.mx/deadpool-la-guerra-de-wade-wilson-marvel-must-have",
-      "updated_at": "2026-11-10T00:21:26.427713+00:00"
+      "updated_at": "2026-11-10T05:23:03.820432+00:00"
     },
     "QEVENT007": {
       "name": "Fall Of X: Jean Grey / Astonishing Iceman",
@@ -7997,10 +7997,10 @@
     "QMMUS031": {
       "name": "La Última Cacería De Kraven (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/la-ultima-caceria-de-kraven-marvel-must-have",
-      "updated_at": "2026-11-10T00:21:26.427713+00:00"
+      "updated_at": "2026-11-10T05:23:03.820432+00:00"
     },
     "QWVNE006": {
       "name": "Wolverine Vol.06",
