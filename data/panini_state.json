@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T18:55:07.231452+00:00",
+  "last_updated": "2026-11-10T19:44:44.611233+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -6002,70 +6002,6 @@
       "url": "https://tiendapanini.com.mx/ronin-dc-absolute",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QLABE006": {
-      "name": "Wonder Woman: Historia",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 429,
-      "url": "https://tiendapanini.com.mx/wonder-woman-historia",
-      "updated_at": "2026-11-03T16:22:53.884135+00:00"
-    },
-    "QULSP008": {
-      "name": "The Ultimate Spider-Man #08",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 129,
-      "url": "https://tiendapanini.com.mx/the-ultimate-spider-man-08",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QAVEN028": {
-      "name": "Avengers #28",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/avengers-28",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDCNI007": {
-      "name": "Nightwing Vol.07",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 219,
-      "url": "https://tiendapanini.com.mx/nightwing-vol07",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBSUP021": {
-      "name": "Batman / Superman World's Finest #21",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-21",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QRETR014": {
-      "name": "Storm",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/storm",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QULTB002": {
-      "name": "Ultimate Black Panther Vol.02",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 169,
-      "url": "https://tiendapanini.com.mx/ultimate-black-panther-vol02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QWVNE013": {
-      "name": "Wolverine Vol.13",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/wolverine-vol13",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
     "QXMEN050": {
       "name": "X-Men Vol.50",
       "publisher": "Marvel Comics",
@@ -10002,70 +9938,6 @@
       "url": "https://tiendapanini.com.mx/batman-watchtower-terminus-dark-mite",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QBTMA008": {
-      "name": "Batman #08",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 79,
-      "url": "https://tiendapanini.com.mx/batman-08",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBSUP008": {
-      "name": "Batman / Superman: World's Finest #08",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 79,
-      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-08",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QASPI016": {
-      "name": "The Amazing Spider-Man #16",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 79,
-      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-16",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBISH001": {
-      "name": "Hawkeye: Kate Bishop",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 149,
-      "url": "https://tiendapanini.com.mx/hawkeye-kate-bishop",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QAVEN016": {
-      "name": "Avengers #16",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 79,
-      "url": "https://tiendapanini.com.mx/avengers-16",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QASPI006V1": {
-      "name": "THE AMAZING SPIDER-MAN #06 VARIANTE 1 (MCGUINESS)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 139,
-      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-06-variante-1-mcguiness",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QWHBB002": {
-      "name": "Deadpool: White, Black And Blood",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 189,
-      "url": "https://tiendapanini.com.mx/deadpool-white-black-and-blood",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QXMEN029": {
-      "name": "X-Men Vol.29",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 219,
-      "url": "https://tiendapanini.com.mx/x-men-vol29",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
     "QSTRG001": {
       "name": "Doctor Strange Vol.01",
       "publisher": "Marvel Comics",
@@ -10277,10 +10149,10 @@
     "QMVIN006": {
       "name": "Spider-Man 2099 Vol.02 (Marvel Vintage)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 479,
       "url": "https://tiendapanini.com.mx/spider-man-2099-vol02-marvel-vintage",
-      "updated_at": "2026-11-10T18:03:48.451945+00:00"
+      "updated_at": "2026-11-10T19:44:44.608139+00:00"
     },
     "QOAMA010": {
       "name": "Secret Empire (Marvel Omnibus)",
@@ -12440,6 +12312,134 @@
       "stock_status": "OUT_OF_STOCK",
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QLABE006": {
+      "name": "Wonder Woman: Historia",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 429,
+      "url": "https://tiendapanini.com.mx/wonder-woman-historia",
+      "updated_at": "2026-11-03T16:22:53.884135+00:00"
+    },
+    "QULSP008": {
+      "name": "The Ultimate Spider-Man #08",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 129,
+      "url": "https://tiendapanini.com.mx/the-ultimate-spider-man-08",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QAVEN028": {
+      "name": "Avengers #28",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/avengers-28",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDCNI007": {
+      "name": "Nightwing Vol.07",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 219,
+      "url": "https://tiendapanini.com.mx/nightwing-vol07",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBSUP021": {
+      "name": "Batman / Superman World's Finest #21",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-21",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QRETR014": {
+      "name": "Storm",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/storm",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QULTB002": {
+      "name": "Ultimate Black Panther Vol.02",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 169,
+      "url": "https://tiendapanini.com.mx/ultimate-black-panther-vol02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QWVNE013": {
+      "name": "Wolverine Vol.13",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/wolverine-vol13",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBTMA008": {
+      "name": "Batman #08",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 79,
+      "url": "https://tiendapanini.com.mx/batman-08",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBSUP008": {
+      "name": "Batman / Superman: World's Finest #08",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 79,
+      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-08",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QASPI016": {
+      "name": "The Amazing Spider-Man #16",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 79,
+      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-16",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBISH001": {
+      "name": "Hawkeye: Kate Bishop",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 149,
+      "url": "https://tiendapanini.com.mx/hawkeye-kate-bishop",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QAVEN016": {
+      "name": "Avengers #16",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 79,
+      "url": "https://tiendapanini.com.mx/avengers-16",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QASPI006V1": {
+      "name": "THE AMAZING SPIDER-MAN #06 VARIANTE 1 (MCGUINESS)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 139,
+      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-06-variante-1-mcguiness",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QWHBB002": {
+      "name": "Deadpool: White, Black And Blood",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 189,
+      "url": "https://tiendapanini.com.mx/deadpool-white-black-and-blood",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QXMEN029": {
+      "name": "X-Men Vol.29",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 219,
+      "url": "https://tiendapanini.com.mx/x-men-vol29",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
