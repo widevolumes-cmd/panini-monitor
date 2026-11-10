@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T01:35:27.166200+00:00",
+  "last_updated": "2026-11-10T02:29:56.875723+00:00",
   "total_products": 1547,
   "products": {
     "QASGA004": {
@@ -1085,10 +1085,10 @@
     "QASPI043": {
       "name": "The Amazing Spider-Man #43",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-43",
-      "updated_at": "2026-11-10T01:35:27.164618+00:00"
+      "updated_at": "2026-11-10T02:29:56.873730+00:00"
     },
     "QDELX011": {
       "name": "Infamous Iron Man",
