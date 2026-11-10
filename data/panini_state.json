@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-11-10T05:23:03.822062+00:00",
-  "total_products": 1547,
+  "last_updated": "2026-11-10T06:22:22.468938+00:00",
+  "total_products": 1555,
   "products": {
+    "QDCKO003": {
+      "name": "DC KO 3",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/dc-ko-3",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
+    "QDDOM001": {
+      "name": "Doctor Doom The Book Of Doom (Marvel Omnibus)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 1999,
+      "url": "https://tiendapanini.com.mx/doctor-doom-the-book-of-doom-marvel-omnibus",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
+    "QDCKO003V1": {
+      "name": "DC KO 3 Variante",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/dc-ko-3-variante",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
+    "QASTA005": {
+      "name": "One World Under Doom TPB",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 299,
+      "url": "https://tiendapanini.com.mx/one-world-under-doom-tpb",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
+    "QDCSU020": {
+      "name": "SUPERMAN VOL. 8 DC K.O.",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 189,
+      "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
+    "QSPBM007": {
+      "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 379,
+      "url": "https://tiendapanini.com.mx/web-of-heroes-collection-spider-man-deadpool-7",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
+    "QSPNO005V": {
+      "name": "Spider Man Noir  #5 Variante",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 169,
+      "url": "https://tiendapanini.com.mx/spider-man-noir-5-variante",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
+    "QINTR005": {
+      "name": "Inmortal Thor Vol.5",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 179,
+      "url": "https://tiendapanini.com.mx/inmortal-thor-vol5",
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
+    },
     "QASGA004": {
       "name": "Absolute Green Arrow #4",
       "publisher": "DC Comics",
@@ -1937,70 +2001,6 @@
       "price": 249,
       "url": "https://tiendapanini.com.mx/civil-war-marvel-pocket",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMMUS052": {
-      "name": "Thor For Asgard (Marvel Must Have)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 369,
-      "url": "https://tiendapanini.com.mx/thor-for-asgard-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QPKDC001PACK": {
-      "name": "Pack Surprise DC 1",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 149,
-      "url": "https://tiendapanini.com.mx/pack-surprise-dc-1",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QTTNS005": {
-      "name": "Titans #5",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 179,
-      "url": "https://tiendapanini.com.mx/titans-5",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QPKBT001PACK": {
-      "name": "Pack Surprise Batman 1",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 149,
-      "url": "https://tiendapanini.com.mx/pack-surprise-batman-1",
-      "updated_at": "2026-10-23T15:31:26.726664+00:00"
-    },
-    "QLABE008": {
-      "name": "Joker/Harley Criminal Sanity #2",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 359,
-      "url": "https://tiendapanini.com.mx/joker-harley-criminal-sanity-2",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QEVENT016": {
-      "name": "Doom´s Division",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/dooms-division",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QJLOM001": {
-      "name": "Justice League Omega Act",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/justice-league-omega-act",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QLUCF010": {
-      "name": "Lucifer #10",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 389,
-      "url": "https://tiendapanini.com.mx/lucifer-10",
-      "updated_at": "2026-11-06T19:45:06.050621+00:00"
     },
     "QASSM010": {
       "name": "Absolute Superman #10",
@@ -5221,10 +5221,10 @@
     "QASDC001": {
       "name": "Absolute Batman #01",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-01",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
     },
     "QINDI001V3": {
       "name": "Rico McPato Y La Moneda Del Infinito Variante Gabriele Dell'Otto",
@@ -5405,10 +5405,10 @@
     "QMMUS041": {
       "name": "Wolverine: Weapon Of X (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/wolverine-weapon-of-x-marvel-must-have",
-      "updated_at": "2026-11-10T01:35:27.164618+00:00"
+      "updated_at": "2026-11-10T06:22:22.465407+00:00"
     },
     "QULSP011": {
       "name": "The Ultimate Spider-Man #11",
@@ -7937,70 +7937,6 @@
       "price": 1453,
       "url": "https://tiendapanini.com.mx/gotham-central-dc-omnibus",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBTLY011": {
-      "name": "Batman: Ra's Al Ghul / Joker",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 339,
-      "url": "https://tiendapanini.com.mx/batman-ras-al-ghul-joker",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBSUP014": {
-      "name": "Batman / Superman: World's Finest #14",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 79,
-      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-14",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QAVEN021": {
-      "name": "Avengers Vol.21",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 79,
-      "url": "https://tiendapanini.com.mx/avengers-vol21",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QBVIN013": {
-      "name": "Batman Noel",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 329,
-      "url": "https://tiendapanini.com.mx/batman-noel",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QACTI001": {
-      "name": "Action Comics 1000",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 349,
-      "url": "https://tiendapanini.com.mx/action-comics-1000",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "Q1602001": {
-      "name": "1602 De Neil Gaiman",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 909,
-      "url": "https://tiendapanini.com.mx/1602-de-neil-gaiman",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QSPVN001": {
-      "name": "Spider-Man & Venom: Double And Trouble",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 141,
-      "url": "https://tiendapanini.com.mx/spider-man-venom-double-and-trouble",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMMUS031": {
-      "name": "La Última Cacería De Kraven (Marvel Must Have)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 349,
-      "url": "https://tiendapanini.com.mx/la-ultima-caceria-de-kraven-marvel-must-have",
-      "updated_at": "2026-11-10T05:23:03.820432+00:00"
     },
     "QWVNE006": {
       "name": "Wolverine Vol.06",
@@ -12377,6 +12313,134 @@
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMMUS052": {
+      "name": "Thor For Asgard (Marvel Must Have)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 369,
+      "url": "https://tiendapanini.com.mx/thor-for-asgard-marvel-must-have",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QPKDC001PACK": {
+      "name": "Pack Surprise DC 1",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 149,
+      "url": "https://tiendapanini.com.mx/pack-surprise-dc-1",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QTTNS005": {
+      "name": "Titans #5",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 179,
+      "url": "https://tiendapanini.com.mx/titans-5",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QPKBT001PACK": {
+      "name": "Pack Surprise Batman 1",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 149,
+      "url": "https://tiendapanini.com.mx/pack-surprise-batman-1",
+      "updated_at": "2026-10-23T15:31:26.726664+00:00"
+    },
+    "QLABE008": {
+      "name": "Joker/Harley Criminal Sanity #2",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 359,
+      "url": "https://tiendapanini.com.mx/joker-harley-criminal-sanity-2",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QEVENT016": {
+      "name": "Doom´s Division",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/dooms-division",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QJLOM001": {
+      "name": "Justice League Omega Act",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/justice-league-omega-act",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QLUCF010": {
+      "name": "Lucifer #10",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 389,
+      "url": "https://tiendapanini.com.mx/lucifer-10",
+      "updated_at": "2026-11-06T19:45:06.050621+00:00"
+    },
+    "QBTLY011": {
+      "name": "Batman: Ra's Al Ghul / Joker",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 339,
+      "url": "https://tiendapanini.com.mx/batman-ras-al-ghul-joker",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBSUP014": {
+      "name": "Batman / Superman: World's Finest #14",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 79,
+      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-14",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QAVEN021": {
+      "name": "Avengers Vol.21",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 79,
+      "url": "https://tiendapanini.com.mx/avengers-vol21",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QBVIN013": {
+      "name": "Batman Noel",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 329,
+      "url": "https://tiendapanini.com.mx/batman-noel",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QACTI001": {
+      "name": "Action Comics 1000",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 349,
+      "url": "https://tiendapanini.com.mx/action-comics-1000",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "Q1602001": {
+      "name": "1602 De Neil Gaiman",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 909,
+      "url": "https://tiendapanini.com.mx/1602-de-neil-gaiman",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QSPVN001": {
+      "name": "Spider-Man & Venom: Double And Trouble",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 141,
+      "url": "https://tiendapanini.com.mx/spider-man-venom-double-and-trouble",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMMUS031": {
+      "name": "La Última Cacería De Kraven (Marvel Must Have)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 349,
+      "url": "https://tiendapanini.com.mx/la-ultima-caceria-de-kraven-marvel-must-have",
+      "updated_at": "2026-11-10T05:23:03.820432+00:00"
     }
   }
 }
