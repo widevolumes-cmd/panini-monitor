@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T09:43:35.386899+00:00",
+  "last_updated": "2026-11-11T10:44:28.467294+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -4589,10 +4589,10 @@
     "QASSM002": {
       "name": "Absolute Superman #02",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-superman-02",
-      "updated_at": "2026-11-11T09:43:35.384772+00:00"
+      "updated_at": "2026-11-11T10:44:28.465241+00:00"
     },
     "QASDC002": {
       "name": "Absolute Batman #02",
@@ -5125,10 +5125,10 @@
     "QRETR017": {
       "name": "Venom Separation Anxiety (Marvel Retropick)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/venom-separation-anxiety-marvel-retropick",
-      "updated_at": "2026-11-11T08:49:22.124092+00:00"
+      "updated_at": "2026-11-11T10:44:28.465241+00:00"
     },
     "QMVSC008": {
       "name": "Marvel Vs Capcom: Fantastic Four #27",
