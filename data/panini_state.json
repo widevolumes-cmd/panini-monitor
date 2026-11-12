@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T06:42:05.039778+00:00",
+  "last_updated": "2026-11-12T08:01:41.988450+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -501,10 +501,10 @@
     "QAWMM008": {
       "name": "Absolute Martian Manhunter #8",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-8",
-      "updated_at": "2026-10-31T04:27:28.268882+00:00"
+      "updated_at": "2026-11-12T08:01:41.986060+00:00"
     },
     "QASWW014": {
       "name": "Absolute Wonder Woman #14",
@@ -893,10 +893,10 @@
     "QASDC013": {
       "name": "Absolute Batman #13",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-13",
-      "updated_at": "2026-11-11T08:49:22.124092+00:00"
+      "updated_at": "2026-11-12T08:01:41.986060+00:00"
     },
     "QASGL007": {
       "name": "Absolute Green Lantern Vol.7",
@@ -5789,10 +5789,10 @@
     "QVENO007": {
       "name": "Venom Vol.07",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 199,
       "url": "https://tiendapanini.com.mx/venom-vol07",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-12T08:01:41.986060+00:00"
     },
     "QDDVL002": {
       "name": "Daredevil Vol.02",
