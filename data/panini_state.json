@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T11:07:22.545147+00:00",
+  "last_updated": "2026-11-12T12:02:22.317322+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -501,10 +501,10 @@
     "QAWMM008": {
       "name": "Absolute Martian Manhunter #8",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-8",
-      "updated_at": "2026-11-12T11:07:22.541277+00:00"
+      "updated_at": "2026-11-12T12:02:22.315183+00:00"
     },
     "QASWW014": {
       "name": "Absolute Wonder Woman #14",
@@ -893,10 +893,10 @@
     "QASDC013": {
       "name": "Absolute Batman #13",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-13",
-      "updated_at": "2026-11-12T11:07:22.541277+00:00"
+      "updated_at": "2026-11-12T12:02:22.315183+00:00"
     },
     "QASGL007": {
       "name": "Absolute Green Lantern Vol.7",
