@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T22:47:43.296672+00:00",
+  "last_updated": "2026-11-13T23:25:57.173592+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -1445,10 +1445,10 @@
     "QMMUS053": {
       "name": "Silver Surfer Black (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/silver-surfer-black-marvel-must-have",
-      "updated_at": "2026-11-13T22:03:56.433832+00:00"
+      "updated_at": "2026-11-13T23:25:57.171977+00:00"
     },
     "QDPOO006": {
       "name": "Deadpool Vol.06",
@@ -3293,10 +3293,10 @@
     "QJLUT004": {
       "name": "Justice League Unlimited Vol.4",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-vol4",
-      "updated_at": "2026-11-13T22:03:56.433832+00:00"
+      "updated_at": "2026-11-13T23:25:57.171977+00:00"
     },
     "QMMUS047": {
       "name": "Return Of Wolverine (Marvel Must Have)",
@@ -6589,10 +6589,10 @@
     "QBLHT001": {
       "name": "Blood Hunt #01",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/blood-hunt-01",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-13T23:25:57.171977+00:00"
     },
     "QAPOW001": {
       "name": "Absolute Power Origins + Superson",
