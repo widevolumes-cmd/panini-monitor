@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T21:16:41.778119+00:00",
+  "last_updated": "2026-11-13T22:03:56.435262+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -1445,10 +1445,10 @@
     "QMMUS053": {
       "name": "Silver Surfer Black (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/silver-surfer-black-marvel-must-have",
-      "updated_at": "2026-11-13T21:16:41.776468+00:00"
+      "updated_at": "2026-11-13T22:03:56.433832+00:00"
     },
     "QDPOO006": {
       "name": "Deadpool Vol.06",
@@ -2805,10 +2805,10 @@
     "QABSO010": {
       "name": "Swamp Thing By Alan Moore 2 (DC Absolute)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 889,
       "url": "https://tiendapanini.com.mx/swamp-thing-by-alan-moore-2-dc-absolute",
-      "updated_at": "2026-11-13T21:16:41.776468+00:00"
+      "updated_at": "2026-11-13T22:03:56.433832+00:00"
     },
     "QASFL003": {
       "name": "Absolute Flash #3",
@@ -3293,10 +3293,10 @@
     "QJLUT004": {
       "name": "Justice League Unlimited Vol.4",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-vol4",
-      "updated_at": "2026-11-13T21:16:41.776468+00:00"
+      "updated_at": "2026-11-13T22:03:56.433832+00:00"
     },
     "QMMUS047": {
       "name": "Return Of Wolverine (Marvel Must Have)",
