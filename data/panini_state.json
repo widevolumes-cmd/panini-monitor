@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T12:43:26.382615+00:00",
+  "last_updated": "2026-11-13T13:57:44.855719+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -2525,10 +2525,10 @@
     "QXMNN008": {
       "name": "X-Men Vol.8",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/x-men-vol8",
-      "updated_at": "2026-11-13T12:43:26.380889+00:00"
+      "updated_at": "2026-11-13T13:57:44.852984+00:00"
     },
     "QDCOM020": {
       "name": "The Authority (DC Omnibus)",
@@ -3157,10 +3157,10 @@
     "QPIVY006": {
       "name": "Poison Ivy Vol.6",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/poison-ivy-vol6-qpivy006",
-      "updated_at": "2026-11-13T12:43:26.380889+00:00"
+      "updated_at": "2026-11-13T13:57:44.852984+00:00"
     },
     "QDCOM018": {
       "name": "Justice League By Geoff Johns Vol.02 (DC Omnibus)",
@@ -5389,10 +5389,10 @@
     "QBVIN019": {
       "name": "Batman: Bruce Wayne Fugitive Vol.01",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 639,
       "url": "https://tiendapanini.com.mx/batman-bruce-wayne-fugitive-vol01",
-      "updated_at": "2026-11-13T12:43:26.380889+00:00"
+      "updated_at": "2026-11-13T13:57:44.852984+00:00"
     },
     "QFFHC004": {
       "name": "Fantastic Four Hickman Collection Vol.04",
