@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T18:21:44.949672+00:00",
+  "last_updated": "2026-11-13T19:25:15.627166+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -1445,10 +1445,10 @@
     "QMMUS053": {
       "name": "Silver Surfer Black (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/silver-surfer-black-marvel-must-have",
-      "updated_at": "2026-11-06T19:45:06.050621+00:00"
+      "updated_at": "2026-11-13T19:25:15.624372+00:00"
     },
     "QDPOO006": {
       "name": "Deadpool Vol.06",
@@ -2525,10 +2525,10 @@
     "QXMNN008": {
       "name": "X-Men Vol.8",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/x-men-vol8",
-      "updated_at": "2026-11-13T15:31:50.154423+00:00"
+      "updated_at": "2026-11-13T19:25:15.624372+00:00"
     },
     "QDCOM020": {
       "name": "The Authority (DC Omnibus)",
@@ -3157,10 +3157,10 @@
     "QPIVY006": {
       "name": "Poison Ivy Vol.6",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/poison-ivy-vol6-qpivy006",
-      "updated_at": "2026-11-13T18:21:44.946711+00:00"
+      "updated_at": "2026-11-13T19:25:15.624372+00:00"
     },
     "QDCOM018": {
       "name": "Justice League By Geoff Johns Vol.02 (DC Omnibus)",
@@ -5125,10 +5125,10 @@
     "QRETR017": {
       "name": "Venom Separation Anxiety (Marvel Retropick)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/venom-separation-anxiety-marvel-retropick",
-      "updated_at": "2026-11-11T12:43:38.093262+00:00"
+      "updated_at": "2026-11-13T19:25:15.624372+00:00"
     },
     "QMVSC008": {
       "name": "Marvel Vs Capcom: Fantastic Four #27",
@@ -5389,10 +5389,10 @@
     "QBVIN019": {
       "name": "Batman: Bruce Wayne Fugitive Vol.01",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 639,
       "url": "https://tiendapanini.com.mx/batman-bruce-wayne-fugitive-vol01",
-      "updated_at": "2026-11-13T18:21:44.946711+00:00"
+      "updated_at": "2026-11-13T19:25:15.624372+00:00"
     },
     "QFFHC004": {
       "name": "Fantastic Four Hickman Collection Vol.04",
