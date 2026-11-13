@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T06:29:05.629365+00:00",
+  "last_updated": "2026-11-13T07:50:15.509330+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -3157,10 +3157,10 @@
     "QPIVY006": {
       "name": "Poison Ivy Vol.6",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/poison-ivy-vol6-qpivy006",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-13T07:50:15.506909+00:00"
     },
     "QDCOM018": {
       "name": "Justice League By Geoff Johns Vol.02 (DC Omnibus)",
