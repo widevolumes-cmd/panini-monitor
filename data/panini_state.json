@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T01:41:21.908140+00:00",
+  "last_updated": "2026-11-13T02:29:56.598748+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -5789,10 +5789,10 @@
     "QVENO007": {
       "name": "Venom Vol.07",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 199,
       "url": "https://tiendapanini.com.mx/venom-vol07",
-      "updated_at": "2026-11-12T22:04:39.600005+00:00"
+      "updated_at": "2026-11-13T02:29:56.595694+00:00"
     },
     "QDDVL002": {
       "name": "Daredevil Vol.02",
