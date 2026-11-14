@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T02:05:49.462250+00:00",
+  "last_updated": "2026-11-14T02:54:13.396866+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -6589,10 +6589,10 @@
     "QBLHT001": {
       "name": "Blood Hunt #01",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/blood-hunt-01",
-      "updated_at": "2026-11-14T02:05:49.460295+00:00"
+      "updated_at": "2026-11-14T02:54:13.394251+00:00"
     },
     "QAPOW001": {
       "name": "Absolute Power Origins + Superson",
