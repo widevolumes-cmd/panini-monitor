@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T00:04:10.267912+00:00",
+  "last_updated": "2026-11-14T01:02:04.306660+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -1445,10 +1445,10 @@
     "QMMUS053": {
       "name": "Silver Surfer Black (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/silver-surfer-black-marvel-must-have",
-      "updated_at": "2026-11-14T00:04:10.264258+00:00"
+      "updated_at": "2026-11-14T01:02:04.304398+00:00"
     },
     "QDPOO006": {
       "name": "Deadpool Vol.06",
@@ -4405,10 +4405,10 @@
     "QJLUT001": {
       "name": "Justice League Unlimited #01",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-01",
-      "updated_at": "2026-11-14T00:04:10.264258+00:00"
+      "updated_at": "2026-11-14T01:02:04.304398+00:00"
     },
     "QTLSH006": {
       "name": "Batman: The Last Halloween #06",
@@ -5125,10 +5125,10 @@
     "QRETR017": {
       "name": "Venom Separation Anxiety (Marvel Retropick)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/venom-separation-anxiety-marvel-retropick",
-      "updated_at": "2026-11-14T00:04:10.264258+00:00"
+      "updated_at": "2026-11-14T01:02:04.304398+00:00"
     },
     "QMVSC008": {
       "name": "Marvel Vs Capcom: Fantastic Four #27",
