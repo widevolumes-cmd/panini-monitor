@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T12:06:25.954738+00:00",
+  "last_updated": "2026-11-14T12:54:12.964349+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -3653,10 +3653,10 @@
     "QDCPK012": {
       "name": "Wonder Woman Earth One (DC Pocket) Vol.1",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/wonder-woman-earth-one-dc-pocket-vol1",
-      "updated_at": "2026-11-14T12:06:25.952170+00:00"
+      "updated_at": "2026-11-14T12:54:12.962135+00:00"
     },
     "QDCSU016": {
       "name": "Superman Action Comics 7_Superstars",
