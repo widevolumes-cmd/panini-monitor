@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T01:02:04.306660+00:00",
+  "last_updated": "2026-11-14T02:05:49.462250+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -2805,10 +2805,10 @@
     "QABSO010": {
       "name": "Swamp Thing By Alan Moore 2 (DC Absolute)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 889,
       "url": "https://tiendapanini.com.mx/swamp-thing-by-alan-moore-2-dc-absolute",
-      "updated_at": "2026-11-14T00:04:10.264258+00:00"
+      "updated_at": "2026-11-14T02:05:49.460295+00:00"
     },
     "QASFL003": {
       "name": "Absolute Flash #3",
@@ -3293,10 +3293,10 @@
     "QJLUT004": {
       "name": "Justice League Unlimited Vol.4",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-vol4",
-      "updated_at": "2026-11-14T00:04:10.264258+00:00"
+      "updated_at": "2026-11-14T02:05:49.460295+00:00"
     },
     "QMMUS047": {
       "name": "Return Of Wolverine (Marvel Must Have)",
@@ -6589,10 +6589,10 @@
     "QBLHT001": {
       "name": "Blood Hunt #01",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/blood-hunt-01",
-      "updated_at": "2026-11-14T00:04:10.264258+00:00"
+      "updated_at": "2026-11-14T02:05:49.460295+00:00"
     },
     "QAPOW001": {
       "name": "Absolute Power Origins + Superson",
