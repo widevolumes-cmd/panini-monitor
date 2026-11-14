@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T22:05:31.351636+00:00",
+  "last_updated": "2026-11-14T22:43:03.895944+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -2021,10 +2021,10 @@
     "QTTNS005": {
       "name": "Titans #5",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/titans-5",
-      "updated_at": "2026-11-14T22:05:31.349657+00:00"
+      "updated_at": "2026-11-14T22:43:03.894000+00:00"
     },
     "QPKBT001PACK": {
       "name": "Pack Surprise Batman 1",
@@ -6813,10 +6813,10 @@
     "QBRYO002": {
       "name": "Batman & Robin Year One #02",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-robin-year-one-02",
-      "updated_at": "2026-11-14T22:05:31.349657+00:00"
+      "updated_at": "2026-11-14T22:43:03.894000+00:00"
     },
     "QBOFW001": {
       "name": "Batman: Off-world",
