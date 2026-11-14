@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T06:21:41.461514+00:00",
+  "last_updated": "2026-11-14T07:35:13.279283+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -3293,10 +3293,10 @@
     "QJLUT004": {
       "name": "Justice League Unlimited Vol.4",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-vol4",
-      "updated_at": "2026-11-14T02:05:49.460295+00:00"
+      "updated_at": "2026-11-14T07:35:13.276896+00:00"
     },
     "QMMUS047": {
       "name": "Return Of Wolverine (Marvel Must Have)",
@@ -4405,10 +4405,10 @@
     "QJLUT001": {
       "name": "Justice League Unlimited #01",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-01",
-      "updated_at": "2026-11-14T01:02:04.304398+00:00"
+      "updated_at": "2026-11-14T07:35:13.276896+00:00"
     },
     "QTLSH006": {
       "name": "Batman: The Last Halloween #06",
