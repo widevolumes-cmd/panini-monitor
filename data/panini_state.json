@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T20:03:49.521669+00:00",
+  "last_updated": "2026-11-14T20:43:16.734704+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -3325,10 +3325,10 @@
     "QBTMA030": {
       "name": "Batman Vol.30",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-vol30",
-      "updated_at": "2026-11-14T20:03:49.519378+00:00"
+      "updated_at": "2026-11-14T20:43:16.731732+00:00"
     },
     "QBIZA001": {
       "name": "Bizarrogirl #1",
@@ -12021,10 +12021,10 @@
     "QINHU005": {
       "name": "EL INMORTAL HULK VOL.05 (DE 12)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 219,
       "url": "https://tiendapanini.com.mx/el-inmortal-hulk-vol05-de-12",
-      "updated_at": "2026-11-14T15:14:52.777767+00:00"
+      "updated_at": "2026-11-14T20:43:16.731732+00:00"
     },
     "QAVEN005": {
       "name": "AVENGERS (2023) #05",
@@ -12085,10 +12085,10 @@
     "QASPI005": {
       "name": "THE AMAZING SPIDER-MAN (2023) #05",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-2023-05",
-      "updated_at": "2026-11-14T15:14:52.777767+00:00"
+      "updated_at": "2026-11-14T20:43:16.731732+00:00"
     },
     "QXMEN007": {
       "name": "X-MEN (2023) VOL.07",
@@ -12165,10 +12165,10 @@
     "QINHU004": {
       "name": "EL INMORTAL HULK VOL.04 (DE 12)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/el-inmortal-hulk-vol04-de-12",
-      "updated_at": "2026-11-14T15:14:52.777767+00:00"
+      "updated_at": "2026-11-14T20:43:16.731732+00:00"
     },
     "QMILS001": {
       "name": "MILES MORALES (MARVEL TEENS) VOL.01",
@@ -12349,10 +12349,10 @@
     "QASPI002": {
       "name": "THE AMAZING SPIDER-MAN (2023) #02",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-2023-02",
-      "updated_at": "2026-11-14T15:14:52.777767+00:00"
+      "updated_at": "2026-11-14T20:43:16.731732+00:00"
     },
     "QALPH001": {
       "name": "Marvel Alpha",
