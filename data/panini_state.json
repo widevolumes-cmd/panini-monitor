@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T09:16:10.616048+00:00",
+  "last_updated": "2026-11-14T10:05:19.477975+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -3117,10 +3117,10 @@
     "QYMAN009": {
       "name": "Y The Last Man Vol.9",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 369,
       "url": "https://tiendapanini.com.mx/y-the-last-man-vol9",
-      "updated_at": "2026-11-14T09:16:10.609983+00:00"
+      "updated_at": "2026-11-14T10:05:19.475910+00:00"
     },
     "QSZOO001": {
       "name": "Zoo-per Heroes De: Supergirl La Gran Aventura De Krypto",
