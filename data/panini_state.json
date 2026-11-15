@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T19:48:35.180516+00:00",
+  "last_updated": "2026-11-15T20:23:43.131499+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -1005,10 +1005,10 @@
     "QBTMA035": {
       "name": "Batman #35",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-35",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-15T20:23:43.129689+00:00"
     },
     "QDOOM009": {
       "name": "One World Under Doom #9",
@@ -1101,10 +1101,10 @@
     "QJLUT009": {
       "name": "Justice League Unlimited #9",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-9",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-15T20:23:43.129689+00:00"
     },
     "QGARW003": {
       "name": "Green Arrow The Longbow Hunters Vol.03",
@@ -1629,10 +1629,10 @@
     "QBTMA034": {
       "name": "Batman #34",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-34",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-15T20:23:43.129689+00:00"
     },
     "QBSUP033": {
       "name": "Batman / Superman World's Finest  #33",
@@ -3165,10 +3165,10 @@
     "QDCOM018": {
       "name": "Justice League By Geoff Johns Vol.02 (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1923,
       "url": "https://tiendapanini.com.mx/justice-league-by-geoff-johns-vol02-dc-omnibus",
-      "updated_at": "2026-11-15T19:48:35.178598+00:00"
+      "updated_at": "2026-11-15T20:23:43.129689+00:00"
     },
     "QMVIN029": {
       "name": "Untold Tales Of Spider-Man Vol.1",
