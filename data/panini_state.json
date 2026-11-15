@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T14:52:27.022479+00:00",
+  "last_updated": "2026-11-15T15:31:08.420798+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -37,10 +37,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -709,10 +709,10 @@
     "QDELX012": {
       "name": "Secret Wars",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 593,
       "url": "https://tiendapanini.com.mx/secret-wars",
-      "updated_at": "2026-11-15T11:31:40.874047+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QDOOM010V1": {
       "name": "The Will Of Doom #1 Portada Variante J.SCOTT CAMPBELL (WRAPAROUND)",
@@ -893,10 +893,10 @@
     "QASDC013": {
       "name": "Absolute Batman #13",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-13",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QASGL007": {
       "name": "Absolute Green Lantern Vol.7",
@@ -1397,10 +1397,10 @@
     "QDCKO001": {
       "name": "DC KO",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/dc-ko",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QDCSE002V": {
       "name": "Batman Day Hush Especial Variante",
@@ -1485,10 +1485,10 @@
     "QFACS008": {
       "name": "Batman #1",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 99,
       "url": "https://tiendapanini.com.mx/batman-1",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QSPBM003": {
       "name": "Web Of Heroes Collection Spider Man & Hulk #3",
@@ -1701,10 +1701,10 @@
     "QASDC011": {
       "name": "Absolute Batman #11",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-11",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QASTA003": {
       "name": "Jessica Jones BlindSpot",
@@ -1805,10 +1805,10 @@
     "QDCSU018": {
       "name": "Superman La Legion De Darkseid",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-la-legion-de-darkseid",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QSPNO001V": {
       "name": "Spider Man Noir  #1 Variante",
@@ -12005,10 +12005,10 @@
     "QXMEN008": {
       "name": "X-MEN (2023) VOL.08",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 229,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol08",
-      "updated_at": "2026-11-15T13:18:08.644478+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QMVIN002": {
       "name": "SPIDER-MAN NOIR (MARVEL VINTAGE)",
@@ -12045,10 +12045,10 @@
     "QXMEN009": {
       "name": "X-MEN (2023) VOL.09",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol09",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-15T15:31:08.418295+00:00"
     },
     "QMISU001": {
       "name": "MIDNIGHT SUNS",
