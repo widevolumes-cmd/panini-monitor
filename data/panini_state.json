@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T01:51:56.303573+00:00",
+  "last_updated": "2026-11-15T02:43:48.055903+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -709,10 +709,10 @@
     "QDELX012": {
       "name": "Secret Wars",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 593,
       "url": "https://tiendapanini.com.mx/secret-wars",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-15T02:43:48.053021+00:00"
     },
     "QDOOM010V1": {
       "name": "The Will Of Doom #1 Portada Variante J.SCOTT CAMPBELL (WRAPAROUND)",
@@ -5621,10 +5621,10 @@
     "QDCNI008": {
       "name": "Nightwing Vol.08",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 219,
       "url": "https://tiendapanini.com.mx/nightwing-vol08",
-      "updated_at": "2026-11-15T01:51:56.301951+00:00"
+      "updated_at": "2026-11-15T02:43:48.053021+00:00"
     },
     "QDCSU013": {
       "name": "Action Comics Vol.05: Fantasmas, Parte Uno",
@@ -12005,10 +12005,10 @@
     "QXMEN008": {
       "name": "X-MEN (2023) VOL.08",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 229,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol08",
-      "updated_at": "2026-11-14T23:55:30.333684+00:00"
+      "updated_at": "2026-11-15T02:43:48.053021+00:00"
     },
     "QMVIN002": {
       "name": "SPIDER-MAN NOIR (MARVEL VINTAGE)",
