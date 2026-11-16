@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T05:02:55.472999+00:00",
+  "last_updated": "2026-11-16T06:15:38.403981+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -2765,10 +2765,10 @@
     "QWLVE008": {
       "name": "Wolverine (2024) Vol.8",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/wolverine-2024-vol8",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-16T06:15:38.402105+00:00"
     },
     "QMMNG007": {
       "name": "Mangaverse (Marvel Manga)",
@@ -3317,10 +3317,10 @@
     "QASPI038": {
       "name": "The Amazing Spider-Man Vol.38",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-vol38",
-      "updated_at": "2026-11-06T21:57:26.478601+00:00"
+      "updated_at": "2026-11-16T06:15:38.402105+00:00"
     },
     "QBTMA030": {
       "name": "Batman Vol.30",
