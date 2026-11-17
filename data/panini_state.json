@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T22:22:52.145971+00:00",
+  "last_updated": "2026-11-17T23:21:12.988274+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -37,10 +37,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-17T22:22:52.143371+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -1213,10 +1213,10 @@
     "QDCOM021": {
       "name": "Green Lantern By Geoff Johns (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1933,
       "url": "https://tiendapanini.com.mx/green-lantern-by-geoff-johns-dc-omnibus",
-      "updated_at": "2026-11-17T22:22:52.143371+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QMVIN032": {
       "name": "Untold Tales Of Spider-Man #2",
@@ -1629,10 +1629,10 @@
     "QBTMA034": {
       "name": "Batman #34",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-34",
-      "updated_at": "2026-11-17T20:28:50.561694+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QBSUP033": {
       "name": "Batman / Superman World's Finest  #33",
@@ -2165,10 +2165,10 @@
     "QMRGN002": {
       "name": "Spider-Man The Graphic Novels (Marvel Graphic Novel)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 513,
       "url": "https://tiendapanini.com.mx/spider-man-the-graphic-novels-marvel-graphic-novel",
-      "updated_at": "2026-11-17T22:22:52.143371+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QSPNR001": {
       "name": "Spider Man Noir TPB #1",
@@ -2533,10 +2533,10 @@
     "QDCOM020": {
       "name": "The Authority (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1483,
       "url": "https://tiendapanini.com.mx/the-authority-dc-omnibus",
-      "updated_at": "2026-11-17T22:22:52.143371+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QTHKI001": {
       "name": "Thor By Jason Aaron (Marvel Omnibus)",
@@ -3165,10 +3165,10 @@
     "QDCOM018": {
       "name": "Justice League By Geoff Johns Vol.02 (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1923,
       "url": "https://tiendapanini.com.mx/justice-league-by-geoff-johns-vol02-dc-omnibus",
-      "updated_at": "2026-11-17T22:22:52.143371+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QMVIN029": {
       "name": "Untold Tales Of Spider-Man Vol.1",
@@ -3317,18 +3317,18 @@
     "QASPI038": {
       "name": "The Amazing Spider-Man Vol.38",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-vol38",
-      "updated_at": "2026-11-16T10:43:38.429806+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QBTMA030": {
       "name": "Batman Vol.30",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-vol30",
-      "updated_at": "2026-11-17T19:37:09.594545+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QBIZA001": {
       "name": "Bizarrogirl #1",
@@ -4109,10 +4109,10 @@
     "QLUCF007": {
       "name": "Lucifer Vol.07",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 399,
       "url": "https://tiendapanini.com.mx/lucifer-vol07",
-      "updated_at": "2026-11-17T22:22:52.143371+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QJLUT002": {
       "name": "Justice League Unlimited #02",
@@ -12293,10 +12293,10 @@
     "QOAMA001": {
       "name": "THE AMAZING SPIDER-MAN DE DAVID MICHELINIE Y TODD MCFARLANE(MARVEL OMNIBUS)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1669,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-de-david-michelinie-y-todd-mcfarlanemarvel-omnibus",
-      "updated_at": "2026-11-17T19:37:09.594545+00:00"
+      "updated_at": "2026-11-17T23:21:12.986163+00:00"
     },
     "QMIMO001": {
       "name": "MILES MORALES: SPIDER-MAN: BEYOND Y EL IMPERIO DE LA ARAÑA",
