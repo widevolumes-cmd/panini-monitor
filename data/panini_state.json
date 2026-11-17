@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T00:30:27.905946+00:00",
+  "last_updated": "2026-11-17T01:54:13.797716+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -37,10 +37,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-17T00:30:27.903746+00:00"
+      "updated_at": "2026-11-17T01:54:13.795711+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -357,10 +357,10 @@
     "QDCPK017": {
       "name": "Dark Victory (DC Pocket)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/dark-victory-dc-pocket",
-      "updated_at": "2026-11-16T23:47:06.093077+00:00"
+      "updated_at": "2026-11-17T01:54:13.795711+00:00"
     },
     "QBRYO011": {
       "name": "Batman & Robin Year One #11",
@@ -629,10 +629,10 @@
     "QPATT002": {
       "name": "Batman Dark Patterns #2",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 369,
       "url": "https://tiendapanini.com.mx/batman-dark-patterns-2",
-      "updated_at": "2026-11-16T23:47:06.093077+00:00"
+      "updated_at": "2026-11-17T01:54:13.795711+00:00"
     },
     "QMMUS055": {
       "name": "Spider Men II",
@@ -1421,10 +1421,10 @@
     "QDCPK015": {
       "name": "Green Lantern Earth One (DC Pocket)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/green-lantern-earth-one-dc-pocket",
-      "updated_at": "2026-11-16T23:47:06.093077+00:00"
+      "updated_at": "2026-11-17T01:54:13.795711+00:00"
     },
     "QBTLY024": {
       "name": "The Brave And The Bold Vol.2",
@@ -1557,10 +1557,10 @@
     "QASGL006": {
       "name": "Absolute Green Lantern Vol.6",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-lantern-vol6",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-17T01:54:13.795711+00:00"
     },
     "QAMFA003": {
       "name": "Marvel Masterworks Capitán América",
