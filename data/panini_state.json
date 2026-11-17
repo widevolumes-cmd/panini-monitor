@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T08:02:15.723897+00:00",
+  "last_updated": "2026-11-17T09:05:29.909069+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -1629,10 +1629,10 @@
     "QBTMA034": {
       "name": "Batman #34",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-34",
-      "updated_at": "2026-11-16T10:43:38.429806+00:00"
+      "updated_at": "2026-11-17T09:05:29.906031+00:00"
     },
     "QBSUP033": {
       "name": "Batman / Superman World's Finest  #33",
@@ -3325,10 +3325,10 @@
     "QBTMA030": {
       "name": "Batman Vol.30",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-vol30",
-      "updated_at": "2026-11-15T04:33:19.330657+00:00"
+      "updated_at": "2026-11-17T09:05:29.906031+00:00"
     },
     "QBIZA001": {
       "name": "Bizarrogirl #1",
@@ -4405,10 +4405,10 @@
     "QJLUT001": {
       "name": "Justice League Unlimited #01",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/justice-league-unlimited-01",
-      "updated_at": "2026-11-15T14:52:27.019744+00:00"
+      "updated_at": "2026-11-17T09:05:29.906031+00:00"
     },
     "QTLSH006": {
       "name": "Batman: The Last Halloween #06",
