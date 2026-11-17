@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T04:38:39.925986+00:00",
+  "last_updated": "2026-11-17T05:39:30.588658+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -357,10 +357,10 @@
     "QDCPK017": {
       "name": "Dark Victory (DC Pocket)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/dark-victory-dc-pocket",
-      "updated_at": "2026-11-17T01:54:13.795711+00:00"
+      "updated_at": "2026-11-17T05:39:30.586042+00:00"
     },
     "QBRYO011": {
       "name": "Batman & Robin Year One #11",
@@ -1557,10 +1557,10 @@
     "QASGL006": {
       "name": "Absolute Green Lantern Vol.6",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-lantern-vol6",
-      "updated_at": "2026-11-17T01:54:13.795711+00:00"
+      "updated_at": "2026-11-17T05:39:30.586042+00:00"
     },
     "QAMFA003": {
       "name": "Marvel Masterworks Capitán América",
@@ -2925,10 +2925,10 @@
     "QMMUS049": {
       "name": "Red Hulk (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 369,
       "url": "https://tiendapanini.com.mx/red-hulk-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-17T05:39:30.586042+00:00"
     },
     "QOAMA034": {
       "name": "Daredevil De Mark Waid 1 (Marvel Omnibus)",
