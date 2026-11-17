@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T16:29:00.524257+00:00",
+  "last_updated": "2026-11-17T17:33:37.096312+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -37,10 +37,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-17T16:29:00.522288+00:00"
+      "updated_at": "2026-11-17T17:33:37.092562+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -629,10 +629,10 @@
     "QPATT002": {
       "name": "Batman Dark Patterns #2",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 369,
       "url": "https://tiendapanini.com.mx/batman-dark-patterns-2",
-      "updated_at": "2026-11-17T16:29:00.522288+00:00"
+      "updated_at": "2026-11-17T17:33:37.092562+00:00"
     },
     "QMMUS055": {
       "name": "Spider Men II",
@@ -1213,10 +1213,10 @@
     "QDCOM021": {
       "name": "Green Lantern By Geoff Johns (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1933,
       "url": "https://tiendapanini.com.mx/green-lantern-by-geoff-johns-dc-omnibus",
-      "updated_at": "2026-11-17T16:29:00.522288+00:00"
+      "updated_at": "2026-11-17T17:33:37.092562+00:00"
     },
     "QMVIN032": {
       "name": "Untold Tales Of Spider-Man #2",
@@ -1629,10 +1629,10 @@
     "QBTMA034": {
       "name": "Batman #34",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-34",
-      "updated_at": "2026-11-17T14:30:00.130125+00:00"
+      "updated_at": "2026-11-17T17:33:37.092562+00:00"
     },
     "QBSUP033": {
       "name": "Batman / Superman World's Finest  #33",
@@ -2021,10 +2021,10 @@
     "QTTNS005": {
       "name": "Titans #5",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/titans-5",
-      "updated_at": "2026-11-17T16:29:00.522288+00:00"
+      "updated_at": "2026-11-17T17:33:37.092562+00:00"
     },
     "QPKBT001PACK": {
       "name": "Pack Surprise Batman 1",
@@ -3165,10 +3165,10 @@
     "QDCOM018": {
       "name": "Justice League By Geoff Johns Vol.02 (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1923,
       "url": "https://tiendapanini.com.mx/justice-league-by-geoff-johns-vol02-dc-omnibus",
-      "updated_at": "2026-11-17T16:29:00.522288+00:00"
+      "updated_at": "2026-11-17T17:33:37.092562+00:00"
     },
     "QMVIN029": {
       "name": "Untold Tales Of Spider-Man Vol.1",
@@ -5621,10 +5621,10 @@
     "QDCNI008": {
       "name": "Nightwing Vol.08",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 219,
       "url": "https://tiendapanini.com.mx/nightwing-vol08",
-      "updated_at": "2026-11-17T16:29:00.522288+00:00"
+      "updated_at": "2026-11-17T17:33:37.092562+00:00"
     },
     "QDCSU013": {
       "name": "Action Comics Vol.05: Fantasmas, Parte Uno",
