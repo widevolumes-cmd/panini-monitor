@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T05:41:58.804337+00:00",
+  "last_updated": "2026-11-18T06:46:36.653894+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -2021,10 +2021,10 @@
     "QTTNS005": {
       "name": "Titans #5",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/titans-5",
-      "updated_at": "2026-11-18T05:41:58.802014+00:00"
+      "updated_at": "2026-11-18T06:46:36.650928+00:00"
     },
     "QPKBT001PACK": {
       "name": "Pack Surprise Batman 1",
@@ -2165,10 +2165,10 @@
     "QMRGN002": {
       "name": "Spider-Man The Graphic Novels (Marvel Graphic Novel)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 513,
       "url": "https://tiendapanini.com.mx/spider-man-the-graphic-novels-marvel-graphic-novel",
-      "updated_at": "2026-11-18T01:41:44.285978+00:00"
+      "updated_at": "2026-11-18T06:46:36.650928+00:00"
     },
     "QSPNR001": {
       "name": "Spider Man Noir TPB #1",
@@ -3045,10 +3045,10 @@
     "QAVEN037": {
       "name": "Avengers #37",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/avengers-37",
-      "updated_at": "2026-11-18T05:41:58.802014+00:00"
+      "updated_at": "2026-11-18T06:46:36.650928+00:00"
     },
     "QBSUP030": {
       "name": "Batman / Superman World's Finest Vol.30",
@@ -3165,10 +3165,10 @@
     "QDCOM018": {
       "name": "Justice League By Geoff Johns Vol.02 (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1923,
       "url": "https://tiendapanini.com.mx/justice-league-by-geoff-johns-vol02-dc-omnibus",
-      "updated_at": "2026-11-17T23:21:12.986163+00:00"
+      "updated_at": "2026-11-18T06:46:36.650928+00:00"
     },
     "QMVIN029": {
       "name": "Untold Tales Of Spider-Man Vol.1",
@@ -3325,10 +3325,10 @@
     "QBTMA030": {
       "name": "Batman Vol.30",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-vol30",
-      "updated_at": "2026-11-18T05:41:58.802014+00:00"
+      "updated_at": "2026-11-18T06:46:36.650928+00:00"
     },
     "QBIZA001": {
       "name": "Bizarrogirl #1",
