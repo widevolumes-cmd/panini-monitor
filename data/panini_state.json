@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T00:15:27.833247+00:00",
+  "last_updated": "2026-11-18T01:41:44.288022+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -2021,10 +2021,10 @@
     "QTTNS005": {
       "name": "Titans #5",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/titans-5",
-      "updated_at": "2026-11-18T00:15:27.830316+00:00"
+      "updated_at": "2026-11-18T01:41:44.285978+00:00"
     },
     "QPKBT001PACK": {
       "name": "Pack Surprise Batman 1",
@@ -2165,10 +2165,10 @@
     "QMRGN002": {
       "name": "Spider-Man The Graphic Novels (Marvel Graphic Novel)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 513,
       "url": "https://tiendapanini.com.mx/spider-man-the-graphic-novels-marvel-graphic-novel",
-      "updated_at": "2026-11-18T00:15:27.830316+00:00"
+      "updated_at": "2026-11-18T01:41:44.285978+00:00"
     },
     "QSPNR001": {
       "name": "Spider Man Noir TPB #1",
@@ -2533,10 +2533,10 @@
     "QDCOM020": {
       "name": "The Authority (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1483,
       "url": "https://tiendapanini.com.mx/the-authority-dc-omnibus",
-      "updated_at": "2026-11-18T00:15:27.830316+00:00"
+      "updated_at": "2026-11-18T01:41:44.285978+00:00"
     },
     "QTHKI001": {
       "name": "Thor By Jason Aaron (Marvel Omnibus)",
@@ -2557,10 +2557,10 @@
     "QASWW009": {
       "name": "Absolute Wonder Woman Vol.9",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-wonder-woman-vol9",
-      "updated_at": "2026-11-18T00:15:27.830316+00:00"
+      "updated_at": "2026-11-18T01:41:44.285978+00:00"
     },
     "QSSPI001V3": {
       "name": "Superman Spider-Man #1 Variante 3 Wraparound (Scott Koblish)",
@@ -3317,10 +3317,10 @@
     "QASPI038": {
       "name": "The Amazing Spider-Man Vol.38",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/the-amazing-spider-man-vol38",
-      "updated_at": "2026-11-18T00:15:27.830316+00:00"
+      "updated_at": "2026-11-18T01:41:44.285978+00:00"
     },
     "QBTMA030": {
       "name": "Batman Vol.30",
