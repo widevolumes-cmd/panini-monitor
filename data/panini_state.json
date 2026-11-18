@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T18:34:17.899910+00:00",
+  "last_updated": "2026-11-18T19:39:25.821391+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -1802,6 +1802,14 @@
       "url": "https://tiendapanini.com.mx/superman-by-john-byrne-dc-omnibus",
       "updated_at": "2026-11-17T19:37:09.594545+00:00"
     },
+    "QDCSU018": {
+      "name": "Superman La Legion De Darkseid",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 189,
+      "url": "https://tiendapanini.com.mx/superman-la-legion-de-darkseid",
+      "updated_at": "2026-11-15T16:16:56.933082+00:00"
+    },
     "QSPNO001V": {
       "name": "Spider Man Noir  #1 Variante",
       "publisher": "Marvel Comics",
@@ -1850,12 +1858,44 @@
       "url": "https://tiendapanini.com.mx/spider-man-noir-2-variante",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
+    "QSUSP001V2": {
+      "name": "Spider Man-Superman #1Variante 2 / Peach Momoko",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/spider-man-superman-1variante-2-peach-momoko",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QSUSP001V3": {
+      "name": "Spider Man-Superman #1Variante 3 / Sanford Greene",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/spider-man-superman-1variante-3-sanford-greene",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QSUSP001": {
+      "name": "Spider Man-Superman #1",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 139,
+      "url": "https://tiendapanini.com.mx/spider-man-superman-1",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
     "QSPBM001": {
       "name": "Web Of Heroes Collection Spider-Man & Los Cuatro Fantásticos",
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 369,
       "url": "https://tiendapanini.com.mx/web-of-heroes-collection-spider-man-los-cuatro-fantasticos",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QSUSP001V1": {
+      "name": "Spider Man-Superman #1 Variante 1 / Logos",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/spider-man-superman-1-variante-1-logos",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QDOOM007": {
@@ -12400,46 +12440,6 @@
       "stock_status": "OUT_OF_STOCK",
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDCSU018": {
-      "name": "Superman La Legion De Darkseid",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 189,
-      "url": "https://tiendapanini.com.mx/superman-la-legion-de-darkseid",
-      "updated_at": "2026-11-15T16:16:56.933082+00:00"
-    },
-    "QSUSP001V2": {
-      "name": "Spider Man-Superman #1Variante 2 / Peach Momoko",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/spider-man-superman-1variante-2-peach-momoko",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QSUSP001V3": {
-      "name": "Spider Man-Superman #1Variante 3 / Sanford Greene",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/spider-man-superman-1variante-3-sanford-greene",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QSUSP001": {
-      "name": "Spider Man-Superman #1",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 139,
-      "url": "https://tiendapanini.com.mx/spider-man-superman-1",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QSUSP001V1": {
-      "name": "Spider Man-Superman #1 Variante 1 / Logos",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/spider-man-superman-1-variante-1-logos",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
