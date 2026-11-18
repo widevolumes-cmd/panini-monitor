@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T16:40:38.329525+00:00",
+  "last_updated": "2026-11-18T17:41:41.838186+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -9517,10 +9517,10 @@
     "QMMUS022": {
       "name": "Iron Man Extremis (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/iron-man-extremis-marvel-must-have",
-      "updated_at": "2026-11-18T15:33:01.903715+00:00"
+      "updated_at": "2026-11-18T17:41:41.835465+00:00"
     },
     "QSTEE002": {
       "name": "Dark Knights Of Steel Vol.02",
@@ -10645,10 +10645,10 @@
     "QAVAM001": {
       "name": "American Vampire Vol.01",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 669,
       "url": "https://tiendapanini.com.mx/american-vampire-vol01",
-      "updated_at": "2026-11-18T15:33:01.903715+00:00"
+      "updated_at": "2026-11-18T17:41:41.835465+00:00"
     },
     "QASPI014": {
       "name": "The Amazing Spider-Man #14",
