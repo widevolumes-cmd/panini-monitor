@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T02:38:48.201215+00:00",
+  "last_updated": "2026-11-18T03:34:58.399397+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -4109,10 +4109,10 @@
     "QLUCF007": {
       "name": "Lucifer Vol.07",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 399,
       "url": "https://tiendapanini.com.mx/lucifer-vol07",
-      "updated_at": "2026-11-17T23:21:12.986163+00:00"
+      "updated_at": "2026-11-18T03:34:58.396981+00:00"
     },
     "QJLUT002": {
       "name": "Justice League Unlimited #02",
