@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T14:33:56.085924+00:00",
+  "last_updated": "2026-11-18T15:33:01.906252+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -101,10 +101,10 @@
     "QAWMM009": {
       "name": "Absolute Martian Manhunter #9",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-9",
-      "updated_at": "2026-11-18T13:38:45.803976+00:00"
+      "updated_at": "2026-11-18T15:33:01.903715+00:00"
     },
     "QASWW015": {
       "name": "Absolute Wonder Woman #15",
@@ -389,10 +389,10 @@
     "QASGA003": {
       "name": "Absolute Green Arrow #3",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-3",
-      "updated_at": "2026-11-18T13:38:45.803976+00:00"
+      "updated_at": "2026-11-18T15:33:01.903715+00:00"
     },
     "QASFL008": {
       "name": "Absolute Flash #8",
@@ -9517,10 +9517,10 @@
     "QMMUS022": {
       "name": "Iron Man Extremis (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/iron-man-extremis-marvel-must-have",
-      "updated_at": "2026-11-18T14:33:56.083222+00:00"
+      "updated_at": "2026-11-18T15:33:01.903715+00:00"
     },
     "QSTEE002": {
       "name": "Dark Knights Of Steel Vol.02",
@@ -10645,10 +10645,10 @@
     "QAVAM001": {
       "name": "American Vampire Vol.01",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 669,
       "url": "https://tiendapanini.com.mx/american-vampire-vol01",
-      "updated_at": "2026-11-18T13:38:45.803976+00:00"
+      "updated_at": "2026-11-18T15:33:01.903715+00:00"
     },
     "QASPI014": {
       "name": "The Amazing Spider-Man #14",
