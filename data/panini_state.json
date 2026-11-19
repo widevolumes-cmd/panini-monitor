@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T13:42:36.026490+00:00",
+  "last_updated": "2026-11-19T14:38:43.725418+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -389,10 +389,10 @@
     "QASGA003": {
       "name": "Absolute Green Arrow #3",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-3",
-      "updated_at": "2026-11-19T12:19:09.600739+00:00"
+      "updated_at": "2026-11-19T14:38:43.723479+00:00"
     },
     "QASFL008": {
       "name": "Absolute Flash #8",
@@ -629,10 +629,10 @@
     "QPATT002": {
       "name": "Batman Dark Patterns #2",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 369,
       "url": "https://tiendapanini.com.mx/batman-dark-patterns-2",
-      "updated_at": "2026-11-19T13:42:36.022310+00:00"
+      "updated_at": "2026-11-19T14:38:43.723479+00:00"
     },
     "QMMUS055": {
       "name": "Spider Men II",
@@ -1213,10 +1213,10 @@
     "QDCOM021": {
       "name": "Green Lantern By Geoff Johns (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1933,
       "url": "https://tiendapanini.com.mx/green-lantern-by-geoff-johns-dc-omnibus",
-      "updated_at": "2026-11-19T13:42:36.022310+00:00"
+      "updated_at": "2026-11-19T14:38:43.723479+00:00"
     },
     "QMVIN032": {
       "name": "Untold Tales Of Spider-Man #2",
