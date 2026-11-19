@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T02:27:57.214481+00:00",
+  "last_updated": "2026-11-19T03:25:04.404866+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -37,10 +37,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-19T02:27:57.212520+00:00"
+      "updated_at": "2026-11-19T03:25:04.402795+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -101,10 +101,10 @@
     "QAWMM009": {
       "name": "Absolute Martian Manhunter #9",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-9",
-      "updated_at": "2026-11-19T02:27:57.212520+00:00"
+      "updated_at": "2026-11-19T03:25:04.402795+00:00"
     },
     "QASWW015": {
       "name": "Absolute Wonder Woman #15",
@@ -9517,10 +9517,10 @@
     "QMMUS022": {
       "name": "Iron Man Extremis (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 349,
       "url": "https://tiendapanini.com.mx/iron-man-extremis-marvel-must-have",
-      "updated_at": "2026-11-18T18:34:17.896725+00:00"
+      "updated_at": "2026-11-19T03:25:04.402795+00:00"
     },
     "QSTEE002": {
       "name": "Dark Knights Of Steel Vol.02",
@@ -10645,10 +10645,10 @@
     "QAVAM001": {
       "name": "American Vampire Vol.01",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 669,
       "url": "https://tiendapanini.com.mx/american-vampire-vol01",
-      "updated_at": "2026-11-18T18:34:17.896725+00:00"
+      "updated_at": "2026-11-19T03:25:04.402795+00:00"
     },
     "QASPI014": {
       "name": "The Amazing Spider-Man #14",
