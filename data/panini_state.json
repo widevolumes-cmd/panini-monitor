@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T23:19:13.923823+00:00",
+  "last_updated": "2026-11-19T00:09:36.702670+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -37,10 +37,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-18T21:30:08.443490+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -101,10 +101,10 @@
     "QAWMM009": {
       "name": "Absolute Martian Manhunter #9",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-9",
-      "updated_at": "2026-11-18T21:30:08.443490+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QASWW015": {
       "name": "Absolute Wonder Woman #15",
@@ -12005,10 +12005,10 @@
     "QXMEN008": {
       "name": "X-MEN (2023) VOL.08",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 229,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol08",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QMVIN002": {
       "name": "SPIDER-MAN NOIR (MARVEL VINTAGE)",
@@ -12093,10 +12093,10 @@
     "QXMEN007": {
       "name": "X-MEN (2023) VOL.07",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 259,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol07",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QPRID001": {
       "name": "MARVEL PRIDE",
@@ -12125,10 +12125,10 @@
     "QSSTO001": {
       "name": "SPIDER-MAN: LIFE STORY (100% MARVEL)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 479,
       "url": "https://tiendapanini.com.mx/spider-man-life-story-100-marvel",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QASPI004": {
       "name": "THE AMAZING SPIDER-MAN (2023) #04",
@@ -12149,10 +12149,10 @@
     "QXMEN006": {
       "name": "X-MEN (2023) VOL.06",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 249,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol06",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QETER001": {
       "name": "ETERNALS VOL.01",
@@ -12197,18 +12197,18 @@
     "QMMUS003": {
       "name": "SPIDER-MAN: SPIDER-VERSE (MARVEL MUST HAVE)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 409,
       "url": "https://tiendapanini.com.mx/spider-man-spider-verse-marvel-must-have",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QXMEN005": {
       "name": "X-MEN (2023) VOL.05",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 234,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol05",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T00:09:36.699640+00:00"
     },
     "QINHU003": {
       "name": "EL INMORTAL HULK VOL.03 (DE 12)",
