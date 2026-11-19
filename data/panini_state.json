@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T07:59:18.396170+00:00",
+  "last_updated": "2026-11-19T09:00:11.637625+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -389,10 +389,10 @@
     "QASGA003": {
       "name": "Absolute Green Arrow #3",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-3",
-      "updated_at": "2026-11-18T18:34:17.896725+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QASFL008": {
       "name": "Absolute Flash #8",
@@ -429,10 +429,10 @@
     "QOAMA039": {
       "name": "Daredevil Por Brian Michael Vol. 02 Bendis (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1099,
       "url": "https://tiendapanini.com.mx/daredevil-por-brian-michael-vol-02-bendis-marvel-omnibus",
-      "updated_at": "2026-11-17T20:28:50.561694+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QMRPK004": {
       "name": "Marvel Zombies (Marvel Pocket)",
@@ -925,10 +925,10 @@
     "QMMUS054": {
       "name": "Daredevil End Of Days (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 399,
       "url": "https://tiendapanini.com.mx/daredevil-end-of-days-marvel-must-have",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QAVEN043": {
       "name": "Avengers #43",
@@ -1133,10 +1133,10 @@
     "QDCTP002": {
       "name": "Justice Society Of America #2",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/justice-society-of-america-2",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QDCTB001": {
       "name": "Wonder Woman/ Harley Quinn: El Sufrimiento Y El Don",
@@ -1221,10 +1221,10 @@
     "QMVIN032": {
       "name": "Untold Tales Of Spider-Man #2",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 489,
       "url": "https://tiendapanini.com.mx/untold-tales-of-spider-man-2",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QSPNO003V": {
       "name": "Spider Man Noir  #3 Variante",
@@ -2165,10 +2165,10 @@
     "QMRGN002": {
       "name": "Spider-Man The Graphic Novels (Marvel Graphic Novel)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 513,
       "url": "https://tiendapanini.com.mx/spider-man-the-graphic-novels-marvel-graphic-novel",
-      "updated_at": "2026-11-18T08:01:48.465671+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QSPNR001": {
       "name": "Spider Man Noir TPB #1",
@@ -2197,10 +2197,10 @@
     "QULTB003": {
       "name": "Ultimate Black Panther Vol.03",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/ultimate-black-panther-vol03",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QMMUS051": {
       "name": "Marvel Boy (Marvel Must Have)",
@@ -2749,10 +2749,10 @@
     "QTSTR001": {
       "name": "Tomorrow Stories",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 589,
       "url": "https://tiendapanini.com.mx/tomorrow-stories",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QSGIL001": {
       "name": "Supergirl´s Universe End",
@@ -2957,10 +2957,10 @@
     "QDCSU017": {
       "name": "Superman 2  Love & Mercy",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/superman-2-love-mercy",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QTLSH009": {
       "name": "Batman: The Last Halloween #09",
@@ -3381,10 +3381,10 @@
     "QASWW006": {
       "name": "Absolute Wonder Woman Vol.6",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-wonder-woman-vol6",
-      "updated_at": "2026-11-06T21:57:26.478601+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QAVEN036V1": {
       "name": "Avengers Vol.36 (Variante Stitch Paco Medina)",
@@ -8397,10 +8397,10 @@
     "QMMSD002": {
       "name": "Miles Morales Spider-Man Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 149,
       "url": "https://tiendapanini.com.mx/miles-morales-spider-man-vol02",
-      "updated_at": "2026-11-18T14:33:56.083222+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QMMUS030": {
       "name": "Astonishing X-Men  (Marvel Must Have)",
@@ -9021,10 +9021,10 @@
     "QTENC001": {
       "name": "Top 10 Companion",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 789,
       "url": "https://tiendapanini.com.mx/top-10-companion",
-      "updated_at": "2026-11-18T14:33:56.083222+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QRBRO001": {
       "name": "X-Men/Captain Marvel: Revenge Of The Brood Vol.01",
@@ -9565,10 +9565,10 @@
     "QDWEB002": {
       "name": "Dark Web: Mary Jane / Black Cat",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/dark-web-mary-jane-black-cat",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QJSOA001": {
       "name": "Justice Society Of America Vol.01 (de 2)",
@@ -9821,10 +9821,10 @@
     "QMMUS020": {
       "name": "X-Men: La Saga De Dark Phoenix (Marvel Must Have)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 379,
       "url": "https://tiendapanini.com.mx/x-men-la-saga-de-dark-phoenix-marvel-must-have",
-      "updated_at": "2026-11-18T14:33:56.083222+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QOAMA013": {
       "name": "Astonishing X-Men De Whedon & Cassaday (Marvel Omnibus)",
@@ -9909,10 +9909,10 @@
     "QEVENT003": {
       "name": "Axe Vol.03",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/axe-vol03",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-19T09:00:11.635301+00:00"
     },
     "QDMAS001": {
       "name": "Batman: Death Mask",
