@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T01:24:35.108354+00:00",
+  "last_updated": "2026-11-19T02:27:57.214481+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -37,10 +37,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-19T00:09:36.699640+00:00"
+      "updated_at": "2026-11-19T02:27:57.212520+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -101,10 +101,10 @@
     "QAWMM009": {
       "name": "Absolute Martian Manhunter #9",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-9",
-      "updated_at": "2026-11-19T00:09:36.699640+00:00"
+      "updated_at": "2026-11-19T02:27:57.212520+00:00"
     },
     "QASWW015": {
       "name": "Absolute Wonder Woman #15",
