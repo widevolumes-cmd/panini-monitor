@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T18:41:07.908878+00:00",
+  "last_updated": "2026-11-19T19:49:22.093866+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -429,10 +429,10 @@
     "QOAMA039": {
       "name": "Daredevil Por Brian Michael Vol. 02 Bendis (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1099,
       "url": "https://tiendapanini.com.mx/daredevil-por-brian-michael-vol-02-bendis-marvel-omnibus",
-      "updated_at": "2026-11-19T18:41:07.906715+00:00"
+      "updated_at": "2026-11-19T19:49:22.091009+00:00"
     },
     "QMRPK004": {
       "name": "Marvel Zombies (Marvel Pocket)",
