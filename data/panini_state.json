@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T22:27:43.317430+00:00",
+  "last_updated": "2026-11-19T23:16:17.490006+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -429,10 +429,10 @@
     "QOAMA039": {
       "name": "Daredevil Por Brian Michael Vol. 02 Bendis (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1099,
       "url": "https://tiendapanini.com.mx/daredevil-por-brian-michael-vol-02-bendis-marvel-omnibus",
-      "updated_at": "2026-11-19T19:49:22.091009+00:00"
+      "updated_at": "2026-11-19T23:16:17.487980+00:00"
     },
     "QMRPK004": {
       "name": "Marvel Zombies (Marvel Pocket)",
@@ -1213,10 +1213,10 @@
     "QDCOM021": {
       "name": "Green Lantern By Geoff Johns (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1933,
       "url": "https://tiendapanini.com.mx/green-lantern-by-geoff-johns-dc-omnibus",
-      "updated_at": "2026-11-19T22:27:43.315345+00:00"
+      "updated_at": "2026-11-19T23:16:17.487980+00:00"
     },
     "QMVIN032": {
       "name": "Untold Tales Of Spider-Man #2",
