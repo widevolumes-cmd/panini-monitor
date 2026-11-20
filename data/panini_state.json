@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T07:08:27.289103+00:00",
+  "last_updated": "2026-11-20T08:24:28.967611+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -47,7 +47,7 @@
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 379,
-      "url": "https://tiendapanini.com.mx/web-of-heroes-collection-spider-man-deadpool-7-qspbm007",
+      "url": "https://tiendapanini.com.mx/web-of-heroes-collection-spider-man-deadpool-7",
       "updated_at": "2026-11-10T06:22:22.465407+00:00"
     },
     "QSPNO005V": {
@@ -389,10 +389,10 @@
     "QASGA003": {
       "name": "Absolute Green Arrow #3",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-3",
-      "updated_at": "2026-11-20T07:08:27.287168+00:00"
+      "updated_at": "2026-11-20T08:24:28.965096+00:00"
     },
     "QASFL008": {
       "name": "Absolute Flash #8",
@@ -765,10 +765,10 @@
     "QABSO011": {
       "name": "The New Frontier (DC Absolute)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1119,
       "url": "https://tiendapanini.com.mx/the-new-frontier-dc-absolute",
-      "updated_at": "2026-11-20T05:57:27.875808+00:00"
+      "updated_at": "2026-11-20T08:24:28.965096+00:00"
     },
     "QSPNO004V": {
       "name": "Spider Man Noir  #4 Variante",
@@ -3279,7 +3279,7 @@
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 169,
-      "url": "https://tiendapanini.com.mx/x-men-vol06-qxmnn006",
+      "url": "https://tiendapanini.com.mx/x-men-vol06",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QOAMA032": {
@@ -3951,7 +3951,7 @@
       "publisher": "Marvel Comics",
       "stock_status": "OUT_OF_STOCK",
       "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol04-qxmnn004",
+      "url": "https://tiendapanini.com.mx/x-men-vol04",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QMMUS045": {
@@ -5047,7 +5047,7 @@
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol01-qxmnn001",
+      "url": "https://tiendapanini.com.mx/x-men-vol01",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QMVSC007": {
