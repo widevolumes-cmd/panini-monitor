@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T08:24:28.967611+00:00",
+  "last_updated": "2026-11-20T09:29:58.137496+00:00",
   "total_products": 1555,
   "products": {
     "QDCKO003": {
@@ -3279,7 +3279,7 @@
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 169,
-      "url": "https://tiendapanini.com.mx/x-men-vol06",
+      "url": "https://tiendapanini.com.mx/x-men-vol06-qxmnn006",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QOAMA032": {
@@ -3921,86 +3921,6 @@
       "price": 199,
       "url": "https://tiendapanini.com.mx/ultimates-vol02",
       "updated_at": "2026-11-15T21:44:30.445242+00:00"
-    },
-    "QASPI036": {
-      "name": "The Amazing Spider-Man #36",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-36",
-      "updated_at": "2026-11-15T21:44:30.445242+00:00"
-    },
-    "QASDC005": {
-      "name": "Absolute Batman #05",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/absolute-batman-05",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDCHU002": {
-      "name": "Hush 2 #02",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/hush-2-02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QXMNN004": {
-      "name": "X-Men Vol.04",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol04",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMMUS045": {
-      "name": "Wolverine De Miller (Marvel Must Have)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 339,
-      "url": "https://tiendapanini.com.mx/wolverine-de-miller-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QWHIF004": {
-      "name": "Qué Pasaría Si...? Donald Fuera Wolverine",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/que-pasaria-si-donald-fuera-wolverine",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDPOO004": {
-      "name": "Deadpool Vol.04",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/deadpool-vol04",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
-    },
-    "QICHK003": {
-      "name": "Incredible Hulk Vol.03",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 169,
-      "url": "https://tiendapanini.com.mx/incredible-hulk-vol03",
-      "updated_at": "2026-11-04T15:38:54.292503+00:00"
-    },
-    "QTTNS003": {
-      "name": "Titans Vol.03",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 219,
-      "url": "https://tiendapanini.com.mx/titans-vol03",
-      "updated_at": "2026-11-15T21:44:30.445242+00:00"
-    },
-    "QTOMS001BOX": {
-      "name": "Boxset Tom Strong",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 1629,
-      "url": "https://tiendapanini.com.mx/boxset-tom-strong",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QGARW001": {
       "name": "Green Arrow All In Vol.01",
@@ -5047,7 +4967,7 @@
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol01",
+      "url": "https://tiendapanini.com.mx/x-men-vol01-qxmnn001",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QMVSC007": {
@@ -12440,6 +12360,86 @@
       "stock_status": "OUT_OF_STOCK",
       "price": 429,
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QASPI036": {
+      "name": "The Amazing Spider-Man #36",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-36",
+      "updated_at": "2026-11-15T21:44:30.445242+00:00"
+    },
+    "QASDC005": {
+      "name": "Absolute Batman #05",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/absolute-batman-05",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDCHU002": {
+      "name": "Hush 2 #02",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/hush-2-02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QXMNN004": {
+      "name": "X-Men Vol.04",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/x-men-vol04",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMMUS045": {
+      "name": "Wolverine De Miller (Marvel Must Have)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 339,
+      "url": "https://tiendapanini.com.mx/wolverine-de-miller-marvel-must-have",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QWHIF004": {
+      "name": "Qué Pasaría Si...? Donald Fuera Wolverine",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/que-pasaria-si-donald-fuera-wolverine",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDPOO004": {
+      "name": "Deadpool Vol.04",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/deadpool-vol04",
+      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+    },
+    "QICHK003": {
+      "name": "Incredible Hulk Vol.03",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 169,
+      "url": "https://tiendapanini.com.mx/incredible-hulk-vol03",
+      "updated_at": "2026-11-04T15:38:54.292503+00:00"
+    },
+    "QTTNS003": {
+      "name": "Titans Vol.03",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 219,
+      "url": "https://tiendapanini.com.mx/titans-vol03",
+      "updated_at": "2026-11-15T21:44:30.445242+00:00"
+    },
+    "QTOMS001BOX": {
+      "name": "Boxset Tom Strong",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 1629,
+      "url": "https://tiendapanini.com.mx/boxset-tom-strong",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
