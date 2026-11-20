@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T21:26:30.034539+00:00",
+  "last_updated": "2026-11-20T22:17:12.667174+00:00",
   "total_products": 1565,
   "products": {
     "QFACS010V1": {
@@ -789,10 +789,10 @@
     "QDELX012": {
       "name": "Secret Wars",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 593,
       "url": "https://tiendapanini.com.mx/secret-wars",
-      "updated_at": "2026-11-20T20:32:36.020037+00:00"
+      "updated_at": "2026-11-20T22:17:12.664458+00:00"
     },
     "QDOOM010V1": {
       "name": "The Will Of Doom #1 Portada Variante J.SCOTT CAMPBELL (WRAPAROUND)",
