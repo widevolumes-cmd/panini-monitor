@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-11-20T15:42:21.759037+00:00",
+  "last_updated": "2026-11-20T16:42:45.777744+00:00",
   "total_products": 1565,
   "products": {
+    "QFACS010V1": {
+      "name": "Godzilla Variante",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 99,
+      "url": "https://tiendapanini.com.mx/godzilla-variante",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QFACS010": {
+      "name": "Godzilla",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 99,
+      "url": "https://tiendapanini.com.mx/godzilla",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QWOLA003": {
+      "name": "Spider-Man – Renovar Los Votos (Marvel Grimorio)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 1269,
+      "url": "https://tiendapanini.com.mx/spider-man-renovar-los-votos-marvel-grimorio",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QESWL003": {
+      "name": "DC Elseworlds DC Vs Vampires 3",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 259,
+      "url": "https://tiendapanini.com.mx/dc-elseworlds-dc-vs-vampires-3",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QDCOM029": {
+      "name": "Batman No Mans Land (DC Omnibus)",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 1633,
+      "url": "https://tiendapanini.com.mx/batman-no-mans-land-dc-omnibus",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QDLUX017": {
+      "name": "Treasury Edition 50 Aniversario Superman Vs The Amazing Spider-Man",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 373,
+      "url": "https://tiendapanini.com.mx/treasury-edition-50-aniversario-superman-vs-the-amazing-spider-man",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QJLUT011": {
+      "name": "Justice League Unlimited #11",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/justice-league-unlimited-11",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QMBWT001": {
+      "name": "MARVEL: Black, White & Blood And Guts",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 299,
+      "url": "https://tiendapanini.com.mx/marvel-black-white-blood-and-guts",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QDCOM022": {
+      "name": "Flashpoint (DC Omnibus)",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 2099,
+      "url": "https://tiendapanini.com.mx/flashpoint-dc-omnibus",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
+    "QBSUP036": {
+      "name": "Batman / Superman World's Finest #36",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-36",
+      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+    },
     "QDCKO003": {
       "name": "DC KO 3",
       "publisher": "DC Comics",
@@ -517,10 +597,10 @@
     "QABWW002": {
       "name": "Absolute Wonder Woman #2 TPB",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 279,
       "url": "https://tiendapanini.com.mx/absolute-wonder-woman-2-tpb",
-      "updated_at": "2026-11-20T15:42:21.756078+00:00"
+      "updated_at": "2026-11-20T16:42:45.776020+00:00"
     },
     "QAVAM007": {
       "name": "American Vampire Vol.07",
@@ -765,10 +845,10 @@
     "QABSO011": {
       "name": "The New Frontier (DC Absolute)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1119,
       "url": "https://tiendapanini.com.mx/the-new-frontier-dc-absolute",
-      "updated_at": "2026-11-20T15:42:21.756078+00:00"
+      "updated_at": "2026-11-20T16:42:45.776020+00:00"
     },
     "QSPNO004V": {
       "name": "Spider Man Noir  #4 Variante",
@@ -3279,7 +3359,7 @@
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 169,
-      "url": "https://tiendapanini.com.mx/x-men-vol06",
+      "url": "https://tiendapanini.com.mx/x-men-vol06-qxmnn006",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QOAMA032": {
@@ -3921,86 +4001,6 @@
       "price": 199,
       "url": "https://tiendapanini.com.mx/ultimates-vol02",
       "updated_at": "2026-11-15T21:44:30.445242+00:00"
-    },
-    "QASPI036": {
-      "name": "The Amazing Spider-Man #36",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-36",
-      "updated_at": "2026-11-15T21:44:30.445242+00:00"
-    },
-    "QASDC005": {
-      "name": "Absolute Batman #05",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/absolute-batman-05",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDCHU002": {
-      "name": "Hush 2 #02",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/hush-2-02",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QXMNN004": {
-      "name": "X-Men Vol.04",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/x-men-vol04",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QMMUS045": {
-      "name": "Wolverine De Miller (Marvel Must Have)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 339,
-      "url": "https://tiendapanini.com.mx/wolverine-de-miller-marvel-must-have",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QWHIF004": {
-      "name": "Qué Pasaría Si...? Donald Fuera Wolverine",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 89,
-      "url": "https://tiendapanini.com.mx/que-pasaria-si-donald-fuera-wolverine",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
-    },
-    "QDPOO004": {
-      "name": "Deadpool Vol.04",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 159,
-      "url": "https://tiendapanini.com.mx/deadpool-vol04",
-      "updated_at": "2026-11-18T11:20:11.282016+00:00"
-    },
-    "QICHK003": {
-      "name": "Incredible Hulk Vol.03",
-      "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 169,
-      "url": "https://tiendapanini.com.mx/incredible-hulk-vol03",
-      "updated_at": "2026-11-04T15:38:54.292503+00:00"
-    },
-    "QTTNS003": {
-      "name": "Titans Vol.03",
-      "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
-      "price": 219,
-      "url": "https://tiendapanini.com.mx/titans-vol03",
-      "updated_at": "2026-11-15T21:44:30.445242+00:00"
-    },
-    "QTOMS001BOX": {
-      "name": "Boxset Tom Strong",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 1629,
-      "url": "https://tiendapanini.com.mx/boxset-tom-strong",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
     "QGARW001": {
       "name": "Green Arrow All In Vol.01",
@@ -7725,10 +7725,10 @@
     "QBTMA015": {
       "name": "Batman #15",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/batman-15",
-      "updated_at": "2026-11-20T15:42:21.756078+00:00"
+      "updated_at": "2026-11-20T16:42:45.776020+00:00"
     },
     "QCTAR001": {
       "name": "Capitán América Vol.01",
@@ -12173,10 +12173,10 @@
     "QMILS001": {
       "name": "MILES MORALES (MARVEL TEENS) VOL.01",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 319,
       "url": "https://tiendapanini.com.mx/miles-morales-marvel-teens-vol01",
-      "updated_at": "2026-11-20T15:42:21.756078+00:00"
+      "updated_at": "2026-11-20T16:42:45.776020+00:00"
     },
     "QWHAT001": {
       "name": "WHAT IF: MILES MORALES",
@@ -12373,10 +12373,10 @@
     "QASPI001": {
       "name": "Amazing Spider-Man (2023) #1",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/amazing-spider-man-2023-1",
-      "updated_at": "2026-11-20T15:42:21.756078+00:00"
+      "updated_at": "2026-11-20T16:42:45.776020+00:00"
     },
     "QAVEN001": {
       "name": "Avengers (2023) #01",
@@ -12442,85 +12442,85 @@
       "url": "https://tiendapanini.com.mx/antes-de-la-tormenta",
       "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QFACS010V1": {
-      "name": "Godzilla Variante",
+    "QASPI036": {
+      "name": "The Amazing Spider-Man #36",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 99,
-      "url": "https://tiendapanini.com.mx/godzilla-variante",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+      "stock_status": "OUT_OF_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/the-amazing-spider-man-36",
+      "updated_at": "2026-11-15T21:44:30.445242+00:00"
     },
-    "QFACS010": {
-      "name": "Godzilla",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 99,
-      "url": "https://tiendapanini.com.mx/godzilla",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
-    },
-    "QWOLA003": {
-      "name": "Spider-Man – Renovar Los Votos (Marvel Grimorio)",
-      "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
-      "price": 1269,
-      "url": "https://tiendapanini.com.mx/spider-man-renovar-los-votos-marvel-grimorio",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
-    },
-    "QESWL003": {
-      "name": "DC Elseworlds DC Vs Vampires 3",
+    "QASDC005": {
+      "name": "Absolute Batman #05",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 259,
-      "url": "https://tiendapanini.com.mx/dc-elseworlds-dc-vs-vampires-3",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+      "stock_status": "OUT_OF_STOCK",
+      "price": 89,
+      "url": "https://tiendapanini.com.mx/absolute-batman-05",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QDCOM029": {
-      "name": "Batman No Mans Land (DC Omnibus)",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 1633,
-      "url": "https://tiendapanini.com.mx/batman-no-mans-land-dc-omnibus",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
-    },
-    "QDLUX017": {
-      "name": "Treasury Edition 50 Aniversario Superman Vs The Amazing Spider-Man",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 373,
-      "url": "https://tiendapanini.com.mx/treasury-edition-50-aniversario-superman-vs-the-amazing-spider-man",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
-    },
-    "QJLUT011": {
-      "name": "Justice League Unlimited #11",
+    "QDCHU002": {
+      "name": "Hush 2 #02",
       "publisher": "DC Comics",
       "stock_status": "IN_STOCK",
       "price": 89,
-      "url": "https://tiendapanini.com.mx/justice-league-unlimited-11",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+      "url": "https://tiendapanini.com.mx/hush-2-02",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QMBWT001": {
-      "name": "MARVEL: Black, White & Blood And Guts",
+    "QXMNN004": {
+      "name": "X-Men Vol.04",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/x-men-vol04",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QMMUS045": {
+      "name": "Wolverine De Miller (Marvel Must Have)",
       "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
-      "price": 299,
-      "url": "https://tiendapanini.com.mx/marvel-black-white-blood-and-guts",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+      "price": 339,
+      "url": "https://tiendapanini.com.mx/wolverine-de-miller-marvel-must-have",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
     },
-    "QDCOM022": {
-      "name": "Flashpoint (DC Omnibus)",
-      "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
-      "price": 2099,
-      "url": "https://tiendapanini.com.mx/flashpoint-dc-omnibus",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
-    },
-    "QBSUP036": {
-      "name": "Batman / Superman World's Finest #36",
-      "publisher": "DC Comics",
+    "QWHIF004": {
+      "name": "Qué Pasaría Si...? Donald Fuera Wolverine",
+      "publisher": "Marvel Comics",
       "stock_status": "IN_STOCK",
       "price": 89,
-      "url": "https://tiendapanini.com.mx/batman-superman-worlds-finest-36",
-      "updated_at": "2026-11-20T11:31:56.453406+00:00"
+      "url": "https://tiendapanini.com.mx/que-pasaria-si-donald-fuera-wolverine",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+    },
+    "QDPOO004": {
+      "name": "Deadpool Vol.04",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 159,
+      "url": "https://tiendapanini.com.mx/deadpool-vol04",
+      "updated_at": "2026-11-18T11:20:11.282016+00:00"
+    },
+    "QICHK003": {
+      "name": "Incredible Hulk Vol.03",
+      "publisher": "Marvel Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 169,
+      "url": "https://tiendapanini.com.mx/incredible-hulk-vol03",
+      "updated_at": "2026-11-04T15:38:54.292503+00:00"
+    },
+    "QTTNS003": {
+      "name": "Titans Vol.03",
+      "publisher": "DC Comics",
+      "stock_status": "OUT_OF_STOCK",
+      "price": 219,
+      "url": "https://tiendapanini.com.mx/titans-vol03",
+      "updated_at": "2026-11-15T21:44:30.445242+00:00"
+    },
+    "QTOMS001BOX": {
+      "name": "Boxset Tom Strong",
+      "publisher": "DC Comics",
+      "stock_status": "IN_STOCK",
+      "price": 1629,
+      "url": "https://tiendapanini.com.mx/boxset-tom-strong",
+      "updated_at": "2026-10-22T16:28:14.688780+00:00"
     }
   }
 }
