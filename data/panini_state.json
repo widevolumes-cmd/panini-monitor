@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T09:33:29.782725+00:00",
+  "last_updated": "2026-11-21T10:27:35.907948+00:00",
   "total_products": 1565,
   "products": {
     "QFACS010V1": {
@@ -8045,10 +8045,10 @@
     "QINJU004": {
       "name": "Injustice Vol.04",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/injustice-vol04",
-      "updated_at": "2026-11-21T09:33:29.780525+00:00"
+      "updated_at": "2026-11-21T10:27:35.905632+00:00"
     },
     "QHULK002": {
       "name": "Hulk De Donny Cates Vol.02",
@@ -10877,10 +10877,10 @@
     "QOAMA007": {
       "name": "Uncanny X-Men Vol.01 (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1749,
       "url": "https://tiendapanini.com.mx/uncanny-x-men-vol01-marvel-omnibus",
-      "updated_at": "2026-11-21T09:33:29.780525+00:00"
+      "updated_at": "2026-11-21T10:27:35.905632+00:00"
     },
     "QKUWA003": {
       "name": "Batman: The Jiro Kuwata Batmanga Vol.03",
@@ -11285,10 +11285,10 @@
     "QXMEN021": {
       "name": "X-MEN (2023) VOL.21",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 229,
       "url": "https://tiendapanini.com.mx/x-men-2023-vol21",
-      "updated_at": "2026-11-21T09:33:29.780525+00:00"
+      "updated_at": "2026-11-21T10:27:35.905632+00:00"
     },
     "QSAUN001": {
       "name": "NIGHTMARE COUNTRY VOL.01",
