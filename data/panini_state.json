@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T05:41:31.412635+00:00",
+  "last_updated": "2026-11-21T06:45:14.046870+00:00",
   "total_products": 1565,
   "products": {
     "QFACS010V1": {
@@ -4173,10 +4173,10 @@
     "QSWTC003": {
       "name": "Scarlet Witch Vol.03",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 109,
       "url": "https://tiendapanini.com.mx/scarlet-witch-vol03",
-      "updated_at": "2026-11-19T17:40:51.794278+00:00"
+      "updated_at": "2026-11-21T06:45:14.044789+00:00"
     },
     "QJLGZ001": {
       "name": "Justice League Vs Godzilla Vs Kong",
