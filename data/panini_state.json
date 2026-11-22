@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T22:10:16.874112+00:00",
+  "last_updated": "2026-11-22T02:19:34.817046+00:00",
   "total_products": 1565,
   "products": {
     "QFACS010V1": {
@@ -7197,10 +7197,10 @@
     "QVGMK001": {
       "name": "La Venganza De Moon Knight Vol.01",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/la-venganza-de-moon-knight-vol01",
-      "updated_at": "2026-11-19T17:40:51.794278+00:00"
+      "updated_at": "2026-11-22T02:19:34.815138+00:00"
     },
     "QINTR001": {
       "name": "Inmortal Thor Vol.01",
