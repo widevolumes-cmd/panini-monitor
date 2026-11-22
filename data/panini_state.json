@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T02:19:34.817046+00:00",
+  "last_updated": "2026-11-22T09:57:09.506896+00:00",
   "total_products": 1565,
   "products": {
     "QFACS010V1": {
@@ -469,10 +469,10 @@
     "QASGA003": {
       "name": "Absolute Green Arrow #3",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-3",
-      "updated_at": "2026-11-21T16:18:57.401846+00:00"
+      "updated_at": "2026-11-22T09:57:09.504443+00:00"
     },
     "QASFL008": {
       "name": "Absolute Flash #8",
@@ -509,10 +509,10 @@
     "QOAMA039": {
       "name": "Daredevil Por Brian Michael Vol. 02 Bendis (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1099,
       "url": "https://tiendapanini.com.mx/daredevil-por-brian-michael-vol-02-bendis-marvel-omnibus",
-      "updated_at": "2026-11-19T23:59:56.705640+00:00"
+      "updated_at": "2026-11-22T09:57:09.504443+00:00"
     },
     "QMRPK004": {
       "name": "Marvel Zombies (Marvel Pocket)",
@@ -789,10 +789,10 @@
     "QDELX012": {
       "name": "Secret Wars",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 593,
       "url": "https://tiendapanini.com.mx/secret-wars",
-      "updated_at": "2026-11-21T04:40:43.258600+00:00"
+      "updated_at": "2026-11-22T09:57:09.504443+00:00"
     },
     "QDOOM010V1": {
       "name": "The Will Of Doom #1 Portada Variante J.SCOTT CAMPBELL (WRAPAROUND)",
@@ -845,10 +845,10 @@
     "QABSO011": {
       "name": "The New Frontier (DC Absolute)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1119,
       "url": "https://tiendapanini.com.mx/the-new-frontier-dc-absolute",
-      "updated_at": "2026-11-20T16:42:45.776020+00:00"
+      "updated_at": "2026-11-22T09:57:09.504443+00:00"
     },
     "QSPNO004V": {
       "name": "Spider Man Noir  #4 Variante",
