@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T13:38:09.857743+00:00",
+  "last_updated": "2026-11-24T01:12:26.062365+00:00",
   "total_products": 1565,
   "products": {
     "QFACS010V1": {
@@ -117,10 +117,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-23T13:38:09.854484+00:00"
+      "updated_at": "2026-11-24T01:12:26.060386+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -6669,10 +6669,10 @@
     "QBLHT001": {
       "name": "Blood Hunt #01",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/blood-hunt-01",
-      "updated_at": "2026-11-23T13:38:09.854484+00:00"
+      "updated_at": "2026-11-24T01:12:26.060386+00:00"
     },
     "QAPOW001": {
       "name": "Absolute Power Origins + Superson",
