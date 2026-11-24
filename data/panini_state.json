@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-24T01:12:26.062365+00:00",
-  "total_products": 1565,
+  "last_updated": "2026-11-24T11:06:11.280880+00:00",
+  "total_products": 1566,
   "products": {
+    "QMAFI001": {
+      "name": "X-Women Por Milo Manara (FIL Guadalajara)",
+      "publisher": "Marvel Comics",
+      "stock_status": "IN_STOCK",
+      "price": 169,
+      "url": "https://tiendapanini.com.mx/x-women-por-milo-manara-fil-guadalajara",
+      "updated_at": "2026-11-24T11:06:11.278706+00:00"
+    },
     "QFACS010V1": {
       "name": "Godzilla Variante",
       "publisher": "Marvel Comics",
@@ -469,10 +477,10 @@
     "QASGA003": {
       "name": "Absolute Green Arrow #3",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-3",
-      "updated_at": "2026-11-23T03:32:04.514230+00:00"
+      "updated_at": "2026-11-24T11:06:11.278706+00:00"
     },
     "QASFL008": {
       "name": "Absolute Flash #8",
@@ -789,10 +797,10 @@
     "QDELX012": {
       "name": "Secret Wars",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 593,
       "url": "https://tiendapanini.com.mx/secret-wars",
-      "updated_at": "2026-11-23T03:32:04.514230+00:00"
+      "updated_at": "2026-11-24T11:06:11.278706+00:00"
     },
     "QDOOM010V1": {
       "name": "The Will Of Doom #1 Portada Variante J.SCOTT CAMPBELL (WRAPAROUND)",
@@ -4253,10 +4261,10 @@
     "QBVIN022": {
       "name": "Batman De Grant Morrison: Batman Reborn",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 479,
       "url": "https://tiendapanini.com.mx/batman-de-grant-morrison-batman-reborn",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-24T11:06:11.278706+00:00"
     },
     "QASDC004": {
       "name": "Absolute Batman #04",
@@ -6669,10 +6677,10 @@
     "QBLHT001": {
       "name": "Blood Hunt #01",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/blood-hunt-01",
-      "updated_at": "2026-11-24T01:12:26.060386+00:00"
+      "updated_at": "2026-11-24T11:06:11.278706+00:00"
     },
     "QAPOW001": {
       "name": "Absolute Power Origins + Superson",
@@ -8581,10 +8589,10 @@
     "QBVIN011": {
       "name": "Batman And The Son",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 609,
       "url": "https://tiendapanini.com.mx/batman-and-the-son",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-24T11:06:11.278706+00:00"
     },
     "QDLUX004": {
       "name": "Joker De Bryan Azzarello Y Lee Bermejo",
