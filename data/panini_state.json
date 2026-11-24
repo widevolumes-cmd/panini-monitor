@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T11:06:11.280880+00:00",
+  "last_updated": "2026-11-24T21:08:28.433154+00:00",
   "total_products": 1566,
   "products": {
     "QMAFI001": {
@@ -797,10 +797,10 @@
     "QDELX012": {
       "name": "Secret Wars",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 593,
       "url": "https://tiendapanini.com.mx/secret-wars",
-      "updated_at": "2026-11-24T11:06:11.278706+00:00"
+      "updated_at": "2026-11-24T21:08:28.430164+00:00"
     },
     "QDOOM010V1": {
       "name": "The Will Of Doom #1 Portada Variante J.SCOTT CAMPBELL (WRAPAROUND)",
@@ -4581,10 +4581,10 @@
     "QBTMA026": {
       "name": "Batman #26",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-26",
-      "updated_at": "2026-11-15T19:07:16.194132+00:00"
+      "updated_at": "2026-11-24T21:08:28.430164+00:00"
     },
     "QMVSC016": {
       "name": "Marvel Vs Capcom: Cable: Love And Chrome #4",
