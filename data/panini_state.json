@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T21:08:28.433154+00:00",
+  "last_updated": "2026-11-25T04:09:52.557142+00:00",
   "total_products": 1566,
   "products": {
     "QMAFI001": {
@@ -125,10 +125,10 @@
     "QDCSU020": {
       "name": "SUPERMAN VOL. 8 DC K.O.",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 189,
       "url": "https://tiendapanini.com.mx/superman-vol-8-dc-ko",
-      "updated_at": "2026-11-24T01:12:26.060386+00:00"
+      "updated_at": "2026-11-25T04:09:52.554448+00:00"
     },
     "QSPBM007": {
       "name": "Web Of Heroes Collection Spider-Man & Deadpool #7",
@@ -517,10 +517,10 @@
     "QOAMA039": {
       "name": "Daredevil Por Brian Michael Vol. 02 Bendis (Marvel Omnibus)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1099,
       "url": "https://tiendapanini.com.mx/daredevil-por-brian-michael-vol-02-bendis-marvel-omnibus",
-      "updated_at": "2026-11-23T03:32:04.514230+00:00"
+      "updated_at": "2026-11-25T04:09:52.554448+00:00"
     },
     "QMRPK004": {
       "name": "Marvel Zombies (Marvel Pocket)",
