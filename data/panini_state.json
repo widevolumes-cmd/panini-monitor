@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T06:58:10.153351+00:00",
+  "last_updated": "2026-11-27T17:22:55.113683+00:00",
   "total_products": 1566,
   "products": {
     "QMAFI001": {
@@ -477,10 +477,10 @@
     "QASGA003": {
       "name": "Absolute Green Arrow #3",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-green-arrow-3",
-      "updated_at": "2026-11-24T11:06:11.278706+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QASFL008": {
       "name": "Absolute Flash #8",
@@ -605,10 +605,10 @@
     "QABWW002": {
       "name": "Absolute Wonder Woman #2 TPB",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 279,
       "url": "https://tiendapanini.com.mx/absolute-wonder-woman-2-tpb",
-      "updated_at": "2026-11-20T18:41:33.906334+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QAVAM007": {
       "name": "American Vampire Vol.07",
@@ -645,10 +645,10 @@
     "QABSB002": {
       "name": "Absolute Batman #2 TPB",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 329,
       "url": "https://tiendapanini.com.mx/absolute-batman-2-tpb",
-      "updated_at": "2026-11-14T15:14:52.777767+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QXMEW001": {
       "name": "X-Men Elsewhen",
@@ -661,10 +661,10 @@
     "QABSM002": {
       "name": "Absolute Superman #2 TPB",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 279,
       "url": "https://tiendapanini.com.mx/absolute-superman-2-tpb",
-      "updated_at": "2026-11-17T00:30:27.903746+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QXMNN013": {
       "name": "X-Men Vol.13",
@@ -981,10 +981,10 @@
     "QASDC013": {
       "name": "Absolute Batman #13",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-13",
-      "updated_at": "2026-11-17T00:30:27.903746+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QASGL007": {
       "name": "Absolute Green Lantern Vol.7",
@@ -1093,10 +1093,10 @@
     "QBTMA035": {
       "name": "Batman #35",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/batman-35",
-      "updated_at": "2026-11-21T16:18:57.401846+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QDOOM009": {
       "name": "One World Under Doom #9",
@@ -4325,10 +4325,10 @@
     "QDCPK011": {
       "name": "Batman White Knight (DC Pocket)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 239,
       "url": "https://tiendapanini.com.mx/batman-white-knight-dc-pocket",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QDCSU015": {
       "name": "Superman: Superman 1 The Rise Of Superwoman",
@@ -4517,10 +4517,10 @@
     "QMMNG004": {
       "name": "Avengers Arena Vol.03 (Marvel Manga)",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/avengers-arena-vol03-marvel-manga",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QMVSC018": {
       "name": "Marvel Vs Capcom: X-Force #10",
@@ -4685,10 +4685,10 @@
     "QASDC002": {
       "name": "Absolute Batman #02",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-02",
-      "updated_at": "2026-11-26T05:09:59.087362+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QASWW002": {
       "name": "Absolute Wonder Woman #02",
@@ -5093,10 +5093,10 @@
     "QASSM001": {
       "name": "Absolute Superman #01",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-superman-01",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QASDC001V4": {
       "name": "Absolute Batman #01 (Variante 4)",
@@ -5709,10 +5709,10 @@
     "QDCNI008": {
       "name": "Nightwing Vol.08",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 219,
       "url": "https://tiendapanini.com.mx/nightwing-vol08",
-      "updated_at": "2026-11-18T10:11:53.756020+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QDCSU013": {
       "name": "Action Comics Vol.05: Fantasmas, Parte Uno",
@@ -10909,10 +10909,10 @@
     "QDCOM002": {
       "name": "Animal Man (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 1269,
       "url": "https://tiendapanini.com.mx/animal-man-dc-omnibus",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QDCNI002": {
       "name": "Nightwing Vol.02",
@@ -11661,10 +11661,10 @@
     "QSNIK001": {
       "name": "WOLVERINE: SNIKT!",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 159,
       "url": "https://tiendapanini.com.mx/wolverine-snikt",
-      "updated_at": "2026-10-22T16:28:14.688780+00:00"
+      "updated_at": "2026-11-27T17:22:55.111400+00:00"
     },
     "QOAMA004": {
       "name": "SPIDER-MAN DE TODD MCFARLANE (MARVEL OMNIBUS)",
