@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T17:22:55.113683+00:00",
+  "last_updated": "2026-11-28T00:38:33.318076+00:00",
   "total_products": 1566,
   "products": {
     "QMAFI001": {
@@ -2469,10 +2469,10 @@
     "QASDC009": {
       "name": "Absolute Batman Vol.9",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-vol9",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QASSM009": {
       "name": "Absolute Superman Vol.9",
@@ -2741,10 +2741,10 @@
     "QSSPI001": {
       "name": "Superman Spider-Man #1",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 139,
       "url": "https://tiendapanini.com.mx/superman-spider-man-1",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QDOOM004V4": {
       "name": "One World Under Doom  #04 (Variante Connecting)",
@@ -3453,10 +3453,10 @@
     "QAWMM001": {
       "name": "Absolute Martian Manhunter Vol.1",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-martian-manhunter-vol1",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QAVEN036": {
       "name": "Avengers Vol.36",
@@ -3549,18 +3549,18 @@
     "QABSB001": {
       "name": "Absolute Batman Vol.1 (TPB)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 209,
       "url": "https://tiendapanini.com.mx/absolute-batman-vol1-tpb",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QABSM001": {
       "name": "Absolute Superman Vol.1 (TPB)",
       "publisher": "DC Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 199,
       "url": "https://tiendapanini.com.mx/absolute-superman-vol1-tpb",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QXMNN005": {
       "name": "X-Men Vol.05",
@@ -3717,10 +3717,10 @@
     "QDOOM002": {
       "name": "One World Under Doom Vol.2",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/one-world-under-doom-vol2",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QFLAS009": {
       "name": "Flash Vol.4",
@@ -4517,10 +4517,10 @@
     "QMMNG004": {
       "name": "Avengers Arena Vol.03 (Marvel Manga)",
       "publisher": "Marvel Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 169,
       "url": "https://tiendapanini.com.mx/avengers-arena-vol03-marvel-manga",
-      "updated_at": "2026-11-27T17:22:55.111400+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QMVSC018": {
       "name": "Marvel Vs Capcom: X-Force #10",
@@ -4685,10 +4685,10 @@
     "QASDC002": {
       "name": "Absolute Batman #02",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 89,
       "url": "https://tiendapanini.com.mx/absolute-batman-02",
-      "updated_at": "2026-11-27T17:22:55.111400+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QASWW002": {
       "name": "Absolute Wonder Woman #02",
@@ -5709,10 +5709,10 @@
     "QDCNI008": {
       "name": "Nightwing Vol.08",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 219,
       "url": "https://tiendapanini.com.mx/nightwing-vol08",
-      "updated_at": "2026-11-27T17:22:55.111400+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QDCSU013": {
       "name": "Action Comics Vol.05: Fantasmas, Parte Uno",
@@ -6741,10 +6741,10 @@
     "QULTS002": {
       "name": "Ultimate Spider-Man Vol.02",
       "publisher": "Marvel Comics",
-      "stock_status": "IN_STOCK",
+      "stock_status": "OUT_OF_STOCK",
       "price": 179,
       "url": "https://tiendapanini.com.mx/ultimate-spider-man-vol02",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QXMEN048": {
       "name": "X-Men Vol.48",
@@ -8213,10 +8213,10 @@
     "QBTMA014": {
       "name": "Batman #14",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 79,
       "url": "https://tiendapanini.com.mx/batman-14",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QBTMA014V1": {
       "name": "Batman #14 Variante",
@@ -8413,10 +8413,10 @@
     "QALBR001": {
       "name": "All Star Batman Y Robin",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 539,
       "url": "https://tiendapanini.com.mx/all-star-batman-y-robin",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QABSO006": {
       "name": "Arkham Asylum (DC Absolute)",
@@ -9437,10 +9437,10 @@
     "QDCOM007": {
       "name": "Batman De Tomasi & Gleason (DC Omnibus)",
       "publisher": "DC Comics",
-      "stock_status": "OUT_OF_STOCK",
+      "stock_status": "IN_STOCK",
       "price": 1913,
       "url": "https://tiendapanini.com.mx/batman-de-tomasi-gleason-dc-omnibus",
-      "updated_at": "2026-11-27T06:58:10.150749+00:00"
+      "updated_at": "2026-11-28T00:38:33.314701+00:00"
     },
     "QBMAN006": {
       "name": "Batman: House Of Gotham",
